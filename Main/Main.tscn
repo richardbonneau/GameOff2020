@@ -1,0 +1,307 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://Main/Scripts/Main.gd" type="Script" id=1]
+[ext_resource path="res://Sprites/worldmap.png" type="Texture" id=2]
+[ext_resource path="res://GaugeLight/GaugeLight.tscn" type="PackedScene" id=3]
+[ext_resource path="res://Sprites/rocket-engine.jpeg" type="Texture" id=4]
+
+[node name="Main" type="Node"]
+script = ExtResource( 1 )
+
+[node name="Dashboard" type="ColorRect" parent="."]
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_top = -395.0
+color = Color( 0.282353, 0.407843, 0.552941, 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="RocketEnginesGauge" type="VBoxContainer" parent="Dashboard"]
+anchor_left = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_left = -78.0
+margin_top = 8.0
+margin_right = -7.0
+margin_bottom = -6.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+alignment = 1
+__meta__ = {
+"_edit_group_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="Icon" type="TextureRect" parent="Dashboard/RocketEnginesGauge"]
+margin_right = 71.0
+margin_bottom = 38.0
+size_flags_vertical = 3
+texture = ExtResource( 4 )
+expand = true
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="GaugeLight" parent="Dashboard/RocketEnginesGauge" instance=ExtResource( 3 )]
+margin_top = 42.0
+margin_right = 71.0
+margin_bottom = 81.0
+
+[node name="GaugeLight2" parent="Dashboard/RocketEnginesGauge" instance=ExtResource( 3 )]
+margin_top = 85.0
+margin_right = 71.0
+margin_bottom = 124.0
+
+[node name="GaugeLight3" parent="Dashboard/RocketEnginesGauge" instance=ExtResource( 3 )]
+margin_top = 128.0
+margin_right = 71.0
+margin_bottom = 167.0
+
+[node name="GaugeLight4" parent="Dashboard/RocketEnginesGauge" instance=ExtResource( 3 )]
+margin_top = 171.0
+margin_right = 71.0
+margin_bottom = 209.0
+
+[node name="GaugeLight5" parent="Dashboard/RocketEnginesGauge" instance=ExtResource( 3 )]
+margin_top = 213.0
+margin_right = 71.0
+margin_bottom = 252.0
+
+[node name="GaugeLight6" parent="Dashboard/RocketEnginesGauge" instance=ExtResource( 3 )]
+margin_top = 256.0
+margin_right = 71.0
+margin_bottom = 295.0
+
+[node name="GaugeLight7" parent="Dashboard/RocketEnginesGauge" instance=ExtResource( 3 )]
+margin_top = 299.0
+margin_right = 71.0
+margin_bottom = 338.0
+node_open = true
+
+[node name="GaugeLight8" parent="Dashboard/RocketEnginesGauge" instance=ExtResource( 3 )]
+margin_top = 342.0
+margin_right = 71.0
+margin_bottom = 381.0
+node_open = true
+
+[node name="RocketEnginesGauge2" type="VBoxContainer" parent="Dashboard"]
+anchor_left = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_left = -163.771
+margin_top = 8.0
+margin_right = -92.7715
+margin_bottom = -6.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+alignment = 1
+__meta__ = {
+"_edit_group_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="Icon" type="TextureRect" parent="Dashboard/RocketEnginesGauge2"]
+margin_right = 71.0
+margin_bottom = 38.0
+size_flags_vertical = 3
+texture = ExtResource( 4 )
+expand = true
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="GaugeLight" parent="Dashboard/RocketEnginesGauge2" instance=ExtResource( 3 )]
+margin_top = 42.0
+margin_right = 71.0
+margin_bottom = 81.0
+
+[node name="GaugeLight2" parent="Dashboard/RocketEnginesGauge2" instance=ExtResource( 3 )]
+margin_top = 85.0
+margin_right = 71.0
+margin_bottom = 124.0
+
+[node name="GaugeLight3" parent="Dashboard/RocketEnginesGauge2" instance=ExtResource( 3 )]
+margin_top = 128.0
+margin_right = 71.0
+margin_bottom = 167.0
+
+[node name="GaugeLight4" parent="Dashboard/RocketEnginesGauge2" instance=ExtResource( 3 )]
+margin_top = 171.0
+margin_right = 71.0
+margin_bottom = 209.0
+node_open = true
+
+[node name="GaugeLight5" parent="Dashboard/RocketEnginesGauge2" instance=ExtResource( 3 )]
+margin_top = 213.0
+margin_right = 71.0
+margin_bottom = 252.0
+node_open = true
+
+[node name="GaugeLight6" parent="Dashboard/RocketEnginesGauge2" instance=ExtResource( 3 )]
+margin_top = 256.0
+margin_right = 71.0
+margin_bottom = 295.0
+node_open = true
+
+[node name="GaugeLight7" parent="Dashboard/RocketEnginesGauge2" instance=ExtResource( 3 )]
+margin_top = 299.0
+margin_right = 71.0
+margin_bottom = 338.0
+node_open = true
+
+[node name="GaugeLight8" parent="Dashboard/RocketEnginesGauge2" instance=ExtResource( 3 )]
+margin_top = 342.0
+margin_right = 71.0
+margin_bottom = 381.0
+node_open = true
+
+[node name="RocketEnginesGauge3" type="VBoxContainer" parent="Dashboard"]
+anchor_left = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_left = -247.02
+margin_top = 8.0
+margin_right = -176.02
+margin_bottom = -6.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+alignment = 1
+__meta__ = {
+"_edit_group_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="Icon" type="TextureRect" parent="Dashboard/RocketEnginesGauge3"]
+margin_right = 71.0
+margin_bottom = 38.0
+size_flags_vertical = 3
+texture = ExtResource( 4 )
+expand = true
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="GaugeLight" parent="Dashboard/RocketEnginesGauge3" instance=ExtResource( 3 )]
+margin_top = 42.0
+margin_right = 71.0
+margin_bottom = 81.0
+
+[node name="GaugeLight2" parent="Dashboard/RocketEnginesGauge3" instance=ExtResource( 3 )]
+margin_top = 85.0
+margin_right = 71.0
+margin_bottom = 124.0
+
+[node name="GaugeLight3" parent="Dashboard/RocketEnginesGauge3" instance=ExtResource( 3 )]
+margin_top = 128.0
+margin_right = 71.0
+margin_bottom = 167.0
+
+[node name="GaugeLight4" parent="Dashboard/RocketEnginesGauge3" instance=ExtResource( 3 )]
+margin_top = 171.0
+margin_right = 71.0
+margin_bottom = 209.0
+
+[node name="GaugeLight5" parent="Dashboard/RocketEnginesGauge3" instance=ExtResource( 3 )]
+margin_top = 213.0
+margin_right = 71.0
+margin_bottom = 252.0
+
+[node name="GaugeLight6" parent="Dashboard/RocketEnginesGauge3" instance=ExtResource( 3 )]
+margin_top = 256.0
+margin_right = 71.0
+margin_bottom = 295.0
+
+[node name="GaugeLight7" parent="Dashboard/RocketEnginesGauge3" instance=ExtResource( 3 )]
+margin_top = 299.0
+margin_right = 71.0
+margin_bottom = 338.0
+
+[node name="GaugeLight8" parent="Dashboard/RocketEnginesGauge3" instance=ExtResource( 3 )]
+margin_top = 342.0
+margin_right = 71.0
+margin_bottom = 381.0
+node_open = true
+
+[node name="RocketEnginesGauge4" type="VBoxContainer" parent="Dashboard"]
+anchor_left = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_left = -329.428
+margin_top = 8.0
+margin_right = -258.428
+margin_bottom = -6.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+alignment = 1
+__meta__ = {
+"_edit_group_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="Icon" type="TextureRect" parent="Dashboard/RocketEnginesGauge4"]
+margin_right = 71.0
+margin_bottom = 38.0
+size_flags_vertical = 3
+texture = ExtResource( 4 )
+expand = true
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="GaugeLight" parent="Dashboard/RocketEnginesGauge4" instance=ExtResource( 3 )]
+margin_top = 42.0
+margin_right = 71.0
+margin_bottom = 81.0
+
+[node name="GaugeLight2" parent="Dashboard/RocketEnginesGauge4" instance=ExtResource( 3 )]
+margin_top = 85.0
+margin_right = 71.0
+margin_bottom = 124.0
+
+[node name="GaugeLight3" parent="Dashboard/RocketEnginesGauge4" instance=ExtResource( 3 )]
+margin_top = 128.0
+margin_right = 71.0
+margin_bottom = 167.0
+
+[node name="GaugeLight4" parent="Dashboard/RocketEnginesGauge4" instance=ExtResource( 3 )]
+margin_top = 171.0
+margin_right = 71.0
+margin_bottom = 209.0
+
+[node name="GaugeLight5" parent="Dashboard/RocketEnginesGauge4" instance=ExtResource( 3 )]
+margin_top = 213.0
+margin_right = 71.0
+margin_bottom = 252.0
+
+[node name="GaugeLight6" parent="Dashboard/RocketEnginesGauge4" instance=ExtResource( 3 )]
+margin_top = 256.0
+margin_right = 71.0
+margin_bottom = 295.0
+node_open = true
+
+[node name="GaugeLight7" parent="Dashboard/RocketEnginesGauge4" instance=ExtResource( 3 )]
+margin_top = 299.0
+margin_right = 71.0
+margin_bottom = 338.0
+node_open = true
+
+[node name="GaugeLight8" parent="Dashboard/RocketEnginesGauge4" instance=ExtResource( 3 )]
+margin_top = 342.0
+margin_right = 71.0
+margin_bottom = 381.0
+node_open = true
+
+[node name="Map" type="TextureRect" parent="."]
+anchor_left = 0.5
+anchor_right = 0.5
+margin_left = -381.959
+margin_top = 5.04538
+margin_right = 361.041
+margin_bottom = 370.045
+texture = ExtResource( 2 )
+expand = true
+__meta__ = {
+"_edit_use_anchors_": false
+}
