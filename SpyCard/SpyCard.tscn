@@ -1,0 +1,69 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://SpyCard/Scripts/SpyCard.gd" type="Script" id=1]
+[ext_resource path="res://SpyCard/Spah.png" type="Texture" id=2]
+[ext_resource path="res://Fonts/Raleway_Bold_Big.tres" type="DynamicFont" id=3]
+[ext_resource path="res://Fonts/Raleway_Bold_Small.tres" type="DynamicFont" id=4]
+
+[node name="SpyCard" type="Node2D"]
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_horizontal_guides_": [ 630.592 ]
+}
+
+[node name="CardBackground" type="ColorRect" parent="."]
+margin_right = 550.0
+margin_bottom = 700.0
+rect_pivot_offset = Vector2( 413.05, 677.195 )
+color = Color( 0.262745, 0.262745, 0.262745, 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="SpyPortrait" type="Sprite" parent="."]
+position = Vector2( 124.618, 131.141 )
+scale = Vector2( 0.193881, 0.193881 )
+texture = ExtResource( 2 )
+
+[node name="SpyName" type="RichTextLabel" parent="."]
+margin_left = 255.0
+margin_top = 29.0
+margin_right = 518.0
+margin_bottom = 71.0
+custom_fonts/normal_font = ExtResource( 3 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="SpyDescription" type="RichTextLabel" parent="."]
+margin_left = 253.337
+margin_top = 78.0
+margin_right = 531.337
+margin_bottom = 233.0
+custom_fonts/normal_font = ExtResource( 4 )
+scroll_active = false
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="HireButton" type="Button" parent="."]
+margin_left = 41.0
+margin_top = 631.0
+margin_right = 207.0
+margin_bottom = 691.0
+custom_fonts/font = ExtResource( 3 )
+text = "HIRE"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Cancel" type="Button" parent="."]
+margin_left = 340.0
+margin_top = 631.0
+margin_right = 506.0
+margin_bottom = 691.0
+custom_fonts/font = ExtResource( 3 )
+text = "CANCEL"
+__meta__ = {
+"_edit_use_anchors_": false
+}
