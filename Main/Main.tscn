@@ -1,12 +1,17 @@
 [gd_scene load_steps=5 format=2]
 
 [ext_resource path="res://Main/Scripts/Main.gd" type="Script" id=1]
-[ext_resource path="res://Sprites/worldmap.png" type="Texture" id=2]
+[ext_resource path="res://Map/Map.tscn" type="PackedScene" id=2]
 [ext_resource path="res://GaugeLight/GaugeLight.tscn" type="PackedScene" id=3]
 [ext_resource path="res://Sprites/rocket-engine.jpeg" type="Texture" id=4]
 
 [node name="Main" type="Node"]
 script = ExtResource( 1 )
+
+[node name="Map" parent="." instance=ExtResource( 2 )]
+margin_left = 304.0
+margin_right = -470.554
+margin_bottom = -392.0
 
 [node name="Dashboard" type="ColorRect" parent="."]
 anchor_top = 1.0
@@ -292,16 +297,3 @@ margin_top = 342.0
 margin_right = 71.0
 margin_bottom = 381.0
 node_open = true
-
-[node name="Map" type="TextureRect" parent="."]
-anchor_left = 0.5
-anchor_right = 0.5
-margin_left = -381.959
-margin_top = 5.04538
-margin_right = 361.041
-margin_bottom = 370.045
-texture = ExtResource( 2 )
-expand = true
-__meta__ = {
-"_edit_use_anchors_": false
-}

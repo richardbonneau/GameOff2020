@@ -5,2278 +5,2411 @@
 [node name="Map" type="ColorRect"]
 anchor_right = 1.119
 anchor_bottom = 1.0
-margin_left = 4.0
-margin_top = 4.0
-margin_right = -0.554077
-margin_bottom = -4.0
+margin_right = -4.55408
+margin_bottom = -8.0
+color = Color( 0.298039, 0.596078, 0.623529, 1 )
 __meta__ = {
 "_edit_use_anchors_": false
 }
 
 [node name="MapTile2" parent="." instance=ExtResource( 1 )]
-margin_left = 36.0
-margin_top = 188.0
-margin_right = 36.0
-margin_bottom = 188.0
+anchor_left = 0.023622
+anchor_top = 0.247368
+anchor_right = 0.023622
+anchor_bottom = 0.247368
 
 [node name="MapTile3" parent="." instance=ExtResource( 1 )]
-margin_left = 36.0
-margin_top = 156.0
-margin_right = 36.0
-margin_bottom = 156.0
+anchor_left = 0.023622
+anchor_top = 0.205263
+anchor_right = 0.023622
+anchor_bottom = 0.205263
 
 [node name="MapTile4" parent="." instance=ExtResource( 1 )]
-margin_left = 68.0
-margin_top = 188.0
-margin_right = 68.0
-margin_bottom = 188.0
+anchor_left = 0.0446194
+anchor_top = 0.247368
+anchor_right = 0.0446194
+anchor_bottom = 0.247368
 
 [node name="MapTile5" parent="." instance=ExtResource( 1 )]
-margin_left = 68.0
-margin_top = 156.0
-margin_right = 68.0
-margin_bottom = 156.0
+anchor_left = 0.0446194
+anchor_top = 0.205263
+anchor_right = 0.0446194
+anchor_bottom = 0.205263
 
 [node name="MapTile6" parent="." instance=ExtResource( 1 )]
-margin_left = 100.0
-margin_top = 188.0
-margin_right = 100.0
-margin_bottom = 188.0
+anchor_left = 0.0656168
+anchor_top = 0.247368
+anchor_right = 0.0656168
+anchor_bottom = 0.247368
+margin_left = -7.62939e-06
+margin_right = -7.62939e-06
 
 [node name="MapTile7" parent="." instance=ExtResource( 1 )]
-margin_left = 100.0
-margin_top = 156.0
-margin_right = 100.0
-margin_bottom = 156.0
+anchor_left = 0.0656168
+anchor_top = 0.205263
+anchor_right = 0.0656168
+anchor_bottom = 0.205263
+margin_left = -7.62939e-06
+margin_right = -7.62939e-06
 
 [node name="MapTile8" parent="." instance=ExtResource( 1 )]
-margin_left = 132.0
-margin_top = 188.0
-margin_right = 132.0
-margin_bottom = 188.0
+anchor_left = 0.0866142
+anchor_top = 0.247368
+anchor_right = 0.0866142
+anchor_bottom = 0.247368
 
 [node name="MapTile9" parent="." instance=ExtResource( 1 )]
-margin_left = 132.0
-margin_top = 156.0
-margin_right = 132.0
-margin_bottom = 156.0
+anchor_left = 0.0866142
+anchor_top = 0.205263
+anchor_right = 0.0866142
+anchor_bottom = 0.205263
 
 [node name="MapTile10" parent="." instance=ExtResource( 1 )]
-margin_left = 164.0
-margin_top = 188.0
-margin_right = 164.0
-margin_bottom = 188.0
+anchor_left = 0.107612
+anchor_top = 0.247368
+anchor_right = 0.107612
+anchor_bottom = 0.247368
 
 [node name="MapTile11" parent="." instance=ExtResource( 1 )]
-margin_left = 164.0
-margin_top = 156.0
-margin_right = 164.0
-margin_bottom = 156.0
+anchor_left = 0.107612
+anchor_top = 0.205263
+anchor_right = 0.107612
+anchor_bottom = 0.205263
 
 [node name="MapTile12" parent="." instance=ExtResource( 1 )]
-margin_left = 196.0
-margin_top = 188.0
-margin_right = 196.0
-margin_bottom = 188.0
+anchor_left = 0.128609
+anchor_top = 0.247368
+anchor_right = 0.128609
+anchor_bottom = 0.247368
 
 [node name="MapTile13" parent="." instance=ExtResource( 1 )]
-margin_left = 196.0
-margin_top = 156.0
-margin_right = 196.0
-margin_bottom = 156.0
+anchor_left = 0.128609
+anchor_top = 0.205263
+anchor_right = 0.128609
+anchor_bottom = 0.205263
 
 [node name="MapTile14" parent="." instance=ExtResource( 1 )]
-margin_left = 228.0
-margin_top = 188.0
-margin_right = 228.0
-margin_bottom = 188.0
+anchor_left = 0.149606
+anchor_top = 0.247368
+anchor_right = 0.149606
+anchor_bottom = 0.247368
 
 [node name="MapTile15" parent="." instance=ExtResource( 1 )]
-margin_left = 228.0
-margin_top = 156.0
-margin_right = 228.0
-margin_bottom = 156.0
+anchor_left = 0.149606
+anchor_top = 0.205263
+anchor_right = 0.149606
+anchor_bottom = 0.205263
 
 [node name="MapTile16" parent="." instance=ExtResource( 1 )]
-margin_left = 260.0
-margin_top = 188.0
-margin_right = 260.0
-margin_bottom = 188.0
+anchor_left = 0.170604
+anchor_top = 0.247368
+anchor_right = 0.170604
+anchor_bottom = 0.247368
 
 [node name="MapTile17" parent="." instance=ExtResource( 1 )]
-margin_left = 260.0
-margin_top = 156.0
-margin_right = 260.0
-margin_bottom = 156.0
+anchor_left = 0.170604
+anchor_top = 0.205263
+anchor_right = 0.170604
+anchor_bottom = 0.205263
 
 [node name="MapTile22" parent="." instance=ExtResource( 1 )]
-margin_left = 196.0
-margin_top = 124.0
-margin_right = 196.0
-margin_bottom = 124.0
+anchor_left = 0.128609
+anchor_top = 0.163158
+anchor_right = 0.128609
+anchor_bottom = 0.163158
 
 [node name="MapTile23" parent="." instance=ExtResource( 1 )]
-margin_left = 228.0
-margin_top = 124.0
-margin_right = 228.0
-margin_bottom = 124.0
+anchor_left = 0.149606
+anchor_top = 0.163158
+anchor_right = 0.149606
+anchor_bottom = 0.163158
 
 [node name="MapTile24" parent="." instance=ExtResource( 1 )]
-margin_left = 260.0
-margin_top = 124.0
-margin_right = 260.0
-margin_bottom = 124.0
+anchor_left = 0.170604
+anchor_top = 0.163158
+anchor_right = 0.170604
+anchor_bottom = 0.163158
 
 [node name="MapTile18" parent="." instance=ExtResource( 1 )]
-margin_left = 292.0
-margin_top = 188.0
-margin_right = 292.0
-margin_bottom = 188.0
+anchor_left = 0.191601
+anchor_top = 0.247368
+anchor_right = 0.191601
+anchor_bottom = 0.247368
 
 [node name="MapTile25" parent="." instance=ExtResource( 1 )]
-margin_left = 132.0
-margin_top = 220.0
-margin_right = 132.0
-margin_bottom = 220.0
+anchor_left = 0.0866142
+anchor_top = 0.289474
+anchor_right = 0.0866142
+anchor_bottom = 0.289474
 
 [node name="MapTile26" parent="." instance=ExtResource( 1 )]
-margin_left = 164.0
-margin_top = 220.0
-margin_right = 164.0
-margin_bottom = 220.0
+anchor_left = 0.107612
+anchor_top = 0.289474
+anchor_right = 0.107612
+anchor_bottom = 0.289474
 
 [node name="MapTile27" parent="." instance=ExtResource( 1 )]
-margin_left = 196.0
-margin_top = 220.0
-margin_right = 196.0
-margin_bottom = 220.0
+anchor_left = 0.128609
+anchor_top = 0.289474
+anchor_right = 0.128609
+anchor_bottom = 0.289474
 
 [node name="MapTile28" parent="." instance=ExtResource( 1 )]
-margin_left = 228.0
-margin_top = 220.0
-margin_right = 228.0
-margin_bottom = 220.0
+anchor_left = 0.149606
+anchor_top = 0.289474
+anchor_right = 0.149606
+anchor_bottom = 0.289474
 
 [node name="MapTile29" parent="." instance=ExtResource( 1 )]
-margin_left = 260.0
-margin_top = 220.0
-margin_right = 260.0
-margin_bottom = 220.0
+anchor_left = 0.170604
+anchor_top = 0.289474
+anchor_right = 0.170604
+anchor_bottom = 0.289474
 
 [node name="MapTile30" parent="." instance=ExtResource( 1 )]
-margin_left = 292.0
-margin_top = 220.0
-margin_right = 292.0
-margin_bottom = 220.0
+anchor_left = 0.191601
+anchor_top = 0.289474
+anchor_right = 0.191601
+anchor_bottom = 0.289474
 
 [node name="MapTile31" parent="." instance=ExtResource( 1 )]
-margin_left = 132.0
-margin_top = 252.0
-margin_right = 132.0
-margin_bottom = 252.0
+anchor_left = 0.0866142
+anchor_top = 0.331579
+anchor_right = 0.0866142
+anchor_bottom = 0.331579
 
 [node name="MapTile32" parent="." instance=ExtResource( 1 )]
-margin_left = 164.0
-margin_top = 252.0
-margin_right = 164.0
-margin_bottom = 252.0
+anchor_left = 0.107612
+anchor_top = 0.331579
+anchor_right = 0.107612
+anchor_bottom = 0.331579
 
 [node name="MapTile33" parent="." instance=ExtResource( 1 )]
-margin_left = 196.0
-margin_top = 252.0
-margin_right = 196.0
-margin_bottom = 252.0
+anchor_left = 0.128609
+anchor_top = 0.331579
+anchor_right = 0.128609
+anchor_bottom = 0.331579
 
 [node name="MapTile34" parent="." instance=ExtResource( 1 )]
-margin_left = 228.0
-margin_top = 252.0
-margin_right = 228.0
-margin_bottom = 252.0
+anchor_left = 0.149606
+anchor_top = 0.331579
+anchor_right = 0.149606
+anchor_bottom = 0.331579
 
 [node name="MapTile35" parent="." instance=ExtResource( 1 )]
-margin_left = 260.0
-margin_top = 252.0
-margin_right = 260.0
-margin_bottom = 252.0
+anchor_left = 0.170604
+anchor_top = 0.331579
+anchor_right = 0.170604
+anchor_bottom = 0.331579
 
 [node name="MapTile56" parent="." instance=ExtResource( 1 )]
-margin_left = 164.0
-margin_top = 284.0
-margin_right = 164.0
-margin_bottom = 284.0
+anchor_left = 0.107612
+anchor_top = 0.373684
+anchor_right = 0.107612
+anchor_bottom = 0.373684
 
 [node name="MapTile57" parent="." instance=ExtResource( 1 )]
-margin_left = 196.0
-margin_top = 284.0
-margin_right = 196.0
-margin_bottom = 284.0
+anchor_left = 0.128609
+anchor_top = 0.373684
+anchor_right = 0.128609
+anchor_bottom = 0.373684
 
 [node name="MapTile58" parent="." instance=ExtResource( 1 )]
-margin_left = 228.0
-margin_top = 284.0
-margin_right = 228.0
-margin_bottom = 284.0
+anchor_left = 0.149606
+anchor_top = 0.373684
+anchor_right = 0.149606
+anchor_bottom = 0.373684
 
 [node name="MapTile59" parent="." instance=ExtResource( 1 )]
-margin_left = 260.0
-margin_top = 284.0
-margin_right = 260.0
-margin_bottom = 284.0
+anchor_left = 0.170604
+anchor_top = 0.373684
+anchor_right = 0.170604
+anchor_bottom = 0.373684
 
 [node name="MapTile60" parent="." instance=ExtResource( 1 )]
-margin_left = 164.0
-margin_top = 316.0
-margin_right = 164.0
-margin_bottom = 316.0
+anchor_left = 0.107612
+anchor_top = 0.415789
+anchor_right = 0.107612
+anchor_bottom = 0.415789
 
 [node name="MapTile61" parent="." instance=ExtResource( 1 )]
-margin_left = 196.0
-margin_top = 316.0
-margin_right = 196.0
-margin_bottom = 316.0
+anchor_left = 0.128609
+anchor_top = 0.415789
+anchor_right = 0.128609
+anchor_bottom = 0.415789
 
 [node name="MapTile62" parent="." instance=ExtResource( 1 )]
-margin_left = 228.0
-margin_top = 316.0
-margin_right = 228.0
-margin_bottom = 316.0
+anchor_left = 0.149606
+anchor_top = 0.415789
+anchor_right = 0.149606
+anchor_bottom = 0.415789
 
 [node name="MapTile65" parent="." instance=ExtResource( 1 )]
-margin_left = 196.0
-margin_top = 348.0
-margin_right = 196.0
-margin_bottom = 348.0
+anchor_left = 0.128609
+anchor_top = 0.457895
+anchor_right = 0.128609
+anchor_bottom = 0.457895
 
 [node name="MapTile66" parent="." instance=ExtResource( 1 )]
-margin_left = 228.0
-margin_top = 348.0
-margin_right = 228.0
-margin_bottom = 348.0
+anchor_left = 0.149606
+anchor_top = 0.457895
+anchor_right = 0.149606
+anchor_bottom = 0.457895
 
 [node name="MapTile67" parent="." instance=ExtResource( 1 )]
-margin_left = 228.0
-margin_top = 380.0
-margin_right = 228.0
-margin_bottom = 380.0
+anchor_left = 0.149606
+anchor_top = 0.5
+anchor_right = 0.149606
+anchor_bottom = 0.5
 
 [node name="MapTile68" parent="." instance=ExtResource( 1 )]
-margin_left = 260.0
-margin_top = 380.0
-margin_right = 260.0
-margin_bottom = 380.0
+anchor_left = 0.170604
+anchor_top = 0.5
+anchor_right = 0.170604
+anchor_bottom = 0.5
 
 [node name="MapTile69" parent="." instance=ExtResource( 1 )]
-margin_left = 260.0
-margin_top = 412.0
-margin_right = 260.0
-margin_bottom = 412.0
+anchor_left = 0.170604
+anchor_top = 0.542105
+anchor_right = 0.170604
+anchor_bottom = 0.542105
 
 [node name="MapTile70" parent="." instance=ExtResource( 1 )]
-margin_left = 292.0
-margin_top = 412.0
-margin_right = 292.0
-margin_bottom = 412.0
+anchor_left = 0.191601
+anchor_top = 0.542105
+anchor_right = 0.191601
+anchor_bottom = 0.542105
 
 [node name="MapTile71" parent="." instance=ExtResource( 1 )]
-margin_left = 324.0
-margin_top = 444.0
-margin_right = 324.0
-margin_bottom = 444.0
+anchor_left = 0.212598
+anchor_top = 0.584211
+anchor_right = 0.212598
+anchor_bottom = 0.584211
 
 [node name="MapTile72" parent="." instance=ExtResource( 1 )]
-margin_left = 356.0
-margin_top = 444.0
-margin_right = 356.0
-margin_bottom = 444.0
+anchor_left = 0.233596
+anchor_top = 0.584211
+anchor_right = 0.233596
+anchor_bottom = 0.584211
 
 [node name="MapTile73" parent="." instance=ExtResource( 1 )]
-margin_left = 388.0
-margin_top = 444.0
-margin_right = 388.0
-margin_bottom = 444.0
+anchor_left = 0.254593
+anchor_top = 0.584211
+anchor_right = 0.254593
+anchor_bottom = 0.584211
+margin_left = 3.05176e-05
+margin_right = 3.05176e-05
 
 [node name="MapTile74" parent="." instance=ExtResource( 1 )]
-margin_left = 324.0
-margin_top = 476.0
-margin_right = 324.0
-margin_bottom = 476.0
+anchor_left = 0.212598
+anchor_top = 0.626316
+anchor_right = 0.212598
+anchor_bottom = 0.626316
 
 [node name="MapTile78" parent="." instance=ExtResource( 1 )]
-margin_left = 292.0
-margin_top = 476.0
-margin_right = 292.0
-margin_bottom = 476.0
+anchor_left = 0.191601
+anchor_top = 0.626316
+anchor_right = 0.191601
+anchor_bottom = 0.626316
 
 [node name="MapTile75" parent="." instance=ExtResource( 1 )]
-margin_left = 356.0
-margin_top = 476.0
-margin_right = 356.0
-margin_bottom = 476.0
+anchor_left = 0.233596
+anchor_top = 0.626316
+anchor_right = 0.233596
+anchor_bottom = 0.626316
 
 [node name="MapTile76" parent="." instance=ExtResource( 1 )]
-margin_left = 388.0
-margin_top = 476.0
-margin_right = 388.0
-margin_bottom = 476.0
+anchor_left = 0.254593
+anchor_top = 0.626316
+anchor_right = 0.254593
+anchor_bottom = 0.626316
+margin_left = 3.05176e-05
+margin_right = 3.05176e-05
 
 [node name="MapTile77" parent="." instance=ExtResource( 1 )]
-margin_left = 420.0
-margin_top = 476.0
-margin_right = 420.0
-margin_bottom = 476.0
+anchor_left = 0.275591
+anchor_top = 0.626316
+anchor_right = 0.275591
+anchor_bottom = 0.626316
+margin_left = 3.05176e-05
+margin_right = 3.05176e-05
 
 [node name="MapTile79" parent="." instance=ExtResource( 1 )]
-margin_left = 324.0
-margin_top = 508.0
-margin_right = 324.0
-margin_bottom = 508.0
+anchor_left = 0.212598
+anchor_top = 0.668421
+anchor_right = 0.212598
+anchor_bottom = 0.668421
+margin_top = 3.05176e-05
+margin_bottom = 3.05176e-05
 
 [node name="MapTile80" parent="." instance=ExtResource( 1 )]
-margin_left = 292.0
-margin_top = 508.0
-margin_right = 292.0
-margin_bottom = 508.0
+anchor_left = 0.191601
+anchor_top = 0.668421
+anchor_right = 0.191601
+anchor_bottom = 0.668421
+margin_top = 3.05176e-05
+margin_bottom = 3.05176e-05
 
 [node name="MapTile81" parent="." instance=ExtResource( 1 )]
-margin_left = 356.0
-margin_top = 508.0
-margin_right = 356.0
-margin_bottom = 508.0
+anchor_left = 0.233596
+anchor_top = 0.668421
+anchor_right = 0.233596
+anchor_bottom = 0.668421
+margin_top = 3.05176e-05
+margin_bottom = 3.05176e-05
 
 [node name="MapTile82" parent="." instance=ExtResource( 1 )]
-margin_left = 388.0
-margin_top = 508.0
-margin_right = 388.0
-margin_bottom = 508.0
+anchor_left = 0.254593
+anchor_top = 0.668421
+anchor_right = 0.254593
+anchor_bottom = 0.668421
+margin_left = 3.05176e-05
+margin_top = 3.05176e-05
+margin_right = 3.05176e-05
+margin_bottom = 3.05176e-05
 
 [node name="MapTile83" parent="." instance=ExtResource( 1 )]
-margin_left = 420.0
-margin_top = 508.0
-margin_right = 420.0
-margin_bottom = 508.0
+anchor_left = 0.275591
+anchor_top = 0.668421
+anchor_right = 0.275591
+anchor_bottom = 0.668421
+margin_left = 3.05176e-05
+margin_top = 3.05176e-05
+margin_right = 3.05176e-05
+margin_bottom = 3.05176e-05
 
 [node name="MapTile84" parent="." instance=ExtResource( 1 )]
-margin_left = 452.0
-margin_top = 508.0
-margin_right = 452.0
-margin_bottom = 508.0
+anchor_left = 0.296588
+anchor_top = 0.668421
+anchor_right = 0.296588
+anchor_bottom = 0.668421
+margin_left = 3.05176e-05
+margin_top = 3.05176e-05
+margin_right = 3.05176e-05
+margin_bottom = 3.05176e-05
 
 [node name="MapTile86" parent="." instance=ExtResource( 1 )]
-margin_left = 324.0
-margin_top = 540.0
-margin_right = 324.0
-margin_bottom = 540.0
+anchor_left = 0.212598
+anchor_top = 0.710526
+anchor_right = 0.212598
+anchor_bottom = 0.710526
 
 [node name="MapTile87" parent="." instance=ExtResource( 1 )]
-margin_left = 356.0
-margin_top = 540.0
-margin_right = 356.0
-margin_bottom = 540.0
+anchor_left = 0.233596
+anchor_top = 0.710526
+anchor_right = 0.233596
+anchor_bottom = 0.710526
 
 [node name="MapTile88" parent="." instance=ExtResource( 1 )]
-margin_left = 388.0
-margin_top = 540.0
-margin_right = 388.0
-margin_bottom = 540.0
+anchor_left = 0.254593
+anchor_top = 0.710526
+anchor_right = 0.254593
+anchor_bottom = 0.710526
+margin_left = 3.05176e-05
+margin_right = 3.05176e-05
 
 [node name="MapTile89" parent="." instance=ExtResource( 1 )]
-margin_left = 420.0
-margin_top = 540.0
-margin_right = 420.0
-margin_bottom = 540.0
+anchor_left = 0.275591
+anchor_top = 0.710526
+anchor_right = 0.275591
+anchor_bottom = 0.710526
+margin_left = 3.05176e-05
+margin_right = 3.05176e-05
 
 [node name="MapTile90" parent="." instance=ExtResource( 1 )]
-margin_left = 452.0
-margin_top = 540.0
-margin_right = 452.0
-margin_bottom = 540.0
+anchor_left = 0.296588
+anchor_top = 0.710526
+anchor_right = 0.296588
+anchor_bottom = 0.710526
+margin_left = 3.05176e-05
+margin_right = 3.05176e-05
 
 [node name="MapTile91" parent="." instance=ExtResource( 1 )]
-margin_left = 356.0
-margin_top = 572.0
-margin_right = 356.0
-margin_bottom = 572.0
+anchor_left = 0.233596
+anchor_top = 0.752632
+anchor_right = 0.233596
+anchor_bottom = 0.752632
 
 [node name="MapTile92" parent="." instance=ExtResource( 1 )]
-margin_left = 388.0
-margin_top = 572.0
-margin_right = 388.0
-margin_bottom = 572.0
+anchor_left = 0.254593
+anchor_top = 0.752632
+anchor_right = 0.254593
+anchor_bottom = 0.752632
+margin_left = 3.05176e-05
+margin_right = 3.05176e-05
 
 [node name="MapTile93" parent="." instance=ExtResource( 1 )]
-margin_left = 420.0
-margin_top = 572.0
-margin_right = 420.0
-margin_bottom = 572.0
+anchor_left = 0.275591
+anchor_top = 0.752632
+anchor_right = 0.275591
+anchor_bottom = 0.752632
+margin_left = 3.05176e-05
+margin_right = 3.05176e-05
 
 [node name="MapTile95" parent="." instance=ExtResource( 1 )]
-margin_left = 356.0
-margin_top = 604.0
-margin_right = 356.0
-margin_bottom = 604.0
+anchor_left = 0.233596
+anchor_top = 0.794737
+anchor_right = 0.233596
+anchor_bottom = 0.794737
 
 [node name="MapTile96" parent="." instance=ExtResource( 1 )]
-margin_left = 388.0
-margin_top = 604.0
-margin_right = 388.0
-margin_bottom = 604.0
+anchor_left = 0.254593
+anchor_top = 0.794737
+anchor_right = 0.254593
+anchor_bottom = 0.794737
+margin_left = 3.05176e-05
+margin_right = 3.05176e-05
 
 [node name="MapTile98" parent="." instance=ExtResource( 1 )]
-margin_left = 356.0
-margin_top = 636.0
-margin_right = 356.0
-margin_bottom = 636.0
+anchor_left = 0.233596
+anchor_top = 0.836842
+anchor_right = 0.233596
+anchor_bottom = 0.836842
 
 [node name="MapTile99" parent="." instance=ExtResource( 1 )]
-margin_left = 388.0
-margin_top = 636.0
-margin_right = 388.0
-margin_bottom = 636.0
+anchor_left = 0.254593
+anchor_top = 0.836842
+anchor_right = 0.254593
+anchor_bottom = 0.836842
+margin_left = 3.05176e-05
+margin_right = 3.05176e-05
 
 [node name="MapTile100" parent="." instance=ExtResource( 1 )]
-margin_left = 324.0
-margin_top = 668.0
-margin_right = 324.0
-margin_bottom = 668.0
+anchor_left = 0.212598
+anchor_top = 0.878947
+anchor_right = 0.212598
+anchor_bottom = 0.878947
 
 [node name="MapTile102" parent="." instance=ExtResource( 1 )]
-margin_left = 324.0
-margin_top = 700.0
-margin_right = 324.0
-margin_bottom = 700.0
+anchor_left = 0.212598
+anchor_top = 0.921053
+anchor_right = 0.212598
+anchor_bottom = 0.921053
 
 [node name="MapTile101" parent="." instance=ExtResource( 1 )]
-margin_left = 356.0
-margin_top = 668.0
-margin_right = 356.0
-margin_bottom = 668.0
+anchor_left = 0.233596
+anchor_top = 0.878947
+anchor_right = 0.233596
+anchor_bottom = 0.878947
 
 [node name="MapTile97" parent="." instance=ExtResource( 1 )]
-margin_left = 420.0
-margin_top = 604.0
-margin_right = 420.0
-margin_bottom = 604.0
+anchor_left = 0.275591
+anchor_top = 0.794737
+anchor_right = 0.275591
+anchor_bottom = 0.794737
+margin_left = 3.05176e-05
+margin_right = 3.05176e-05
 
 [node name="MapTile94" parent="." instance=ExtResource( 1 )]
-margin_left = 452.0
-margin_top = 572.0
-margin_right = 452.0
-margin_bottom = 572.0
+anchor_left = 0.296588
+anchor_top = 0.752632
+anchor_right = 0.296588
+anchor_bottom = 0.752632
+margin_left = 3.05176e-05
+margin_right = 3.05176e-05
 
 [node name="MapTile85" parent="." instance=ExtResource( 1 )]
-margin_left = 484.0
-margin_top = 508.0
-margin_right = 484.0
-margin_bottom = 508.0
+anchor_left = 0.317585
+anchor_top = 0.668421
+anchor_right = 0.317585
+anchor_bottom = 0.668421
+margin_left = 3.05176e-05
+margin_top = 3.05176e-05
+margin_right = 3.05176e-05
+margin_bottom = 3.05176e-05
 
 [node name="MapTile63" parent="." instance=ExtResource( 1 )]
-margin_left = 260.0
-margin_top = 316.0
-margin_right = 260.0
-margin_bottom = 316.0
+anchor_left = 0.170604
+anchor_top = 0.415789
+anchor_right = 0.170604
+anchor_bottom = 0.415789
 
 [node name="MapTile36" parent="." instance=ExtResource( 1 )]
-margin_left = 292.0
-margin_top = 252.0
-margin_right = 292.0
-margin_bottom = 252.0
+anchor_left = 0.191601
+anchor_top = 0.331579
+anchor_right = 0.191601
+anchor_bottom = 0.331579
 
 [node name="MapTile19" parent="." instance=ExtResource( 1 )]
-margin_left = 292.0
-margin_top = 156.0
-margin_right = 292.0
-margin_bottom = 156.0
+anchor_left = 0.191601
+anchor_top = 0.205263
+anchor_right = 0.191601
+anchor_bottom = 0.205263
 
 [node name="MapTile20" parent="." instance=ExtResource( 1 )]
-margin_left = 324.0
-margin_top = 188.0
-margin_right = 324.0
-margin_bottom = 188.0
+anchor_left = 0.212598
+anchor_top = 0.247368
+anchor_right = 0.212598
+anchor_bottom = 0.247368
 
 [node name="MapTile21" parent="." instance=ExtResource( 1 )]
-margin_left = 324.0
-margin_top = 156.0
-margin_right = 324.0
-margin_bottom = 156.0
+anchor_left = 0.212598
+anchor_top = 0.205263
+anchor_right = 0.212598
+anchor_bottom = 0.205263
 
 [node name="MapTile37" parent="." instance=ExtResource( 1 )]
-margin_left = 356.0
-margin_top = 124.0
-margin_right = 356.0
-margin_bottom = 124.0
+anchor_left = 0.233596
+anchor_top = 0.163158
+anchor_right = 0.233596
+anchor_bottom = 0.163158
 
 [node name="MapTile103" parent="." instance=ExtResource( 1 )]
-margin_left = 324.0
-margin_top = 92.0
-margin_right = 324.0
-margin_bottom = 92.0
+anchor_left = 0.212598
+anchor_top = 0.121053
+anchor_right = 0.212598
+anchor_bottom = 0.121053
 
 [node name="MapTile104" parent="." instance=ExtResource( 1 )]
-margin_left = 324.0
-margin_top = 60.0
-margin_right = 324.0
-margin_bottom = 60.0
+anchor_left = 0.212598
+anchor_top = 0.0789474
+anchor_right = 0.212598
+anchor_bottom = 0.0789474
+margin_top = 3.8147e-06
+margin_bottom = 3.8147e-06
 
 [node name="MapTile105" parent="." instance=ExtResource( 1 )]
-margin_left = 356.0
-margin_top = 60.0
-margin_right = 356.0
-margin_bottom = 60.0
+anchor_left = 0.233596
+anchor_top = 0.0789474
+anchor_right = 0.233596
+anchor_bottom = 0.0789474
+margin_top = 3.8147e-06
+margin_bottom = 3.8147e-06
 
 [node name="MapTile106" parent="." instance=ExtResource( 1 )]
-margin_left = 388.0
-margin_top = 60.0
-margin_right = 388.0
-margin_bottom = 60.0
+anchor_left = 0.254593
+anchor_top = 0.0789474
+anchor_right = 0.254593
+anchor_bottom = 0.0789474
+margin_left = 3.05176e-05
+margin_top = 3.8147e-06
+margin_right = 3.05176e-05
+margin_bottom = 3.8147e-06
 
 [node name="MapTile108" parent="." instance=ExtResource( 1 )]
-margin_left = 452.0
-margin_top = 92.0
-margin_right = 452.0
-margin_bottom = 92.0
+anchor_left = 0.296588
+anchor_top = 0.121053
+anchor_right = 0.296588
+anchor_bottom = 0.121053
+margin_left = 3.05176e-05
+margin_right = 3.05176e-05
 
 [node name="MapTile109" parent="." instance=ExtResource( 1 )]
-margin_left = 484.0
-margin_top = 92.0
-margin_right = 484.0
-margin_bottom = 92.0
+anchor_left = 0.317585
+anchor_top = 0.121053
+anchor_right = 0.317585
+anchor_bottom = 0.121053
+margin_left = 3.05176e-05
+margin_right = 3.05176e-05
 
 [node name="MapTile110" parent="." instance=ExtResource( 1 )]
-margin_left = 516.0
-margin_top = 92.0
-margin_right = 516.0
-margin_bottom = 92.0
+anchor_left = 0.338583
+anchor_top = 0.121053
+anchor_right = 0.338583
+anchor_bottom = 0.121053
 
 [node name="MapTile111" parent="." instance=ExtResource( 1 )]
-margin_left = 548.0
-margin_top = 92.0
-margin_right = 548.0
-margin_bottom = 92.0
+anchor_left = 0.35958
+anchor_top = 0.121053
+anchor_right = 0.35958
+anchor_bottom = 0.121053
 
 [node name="MapTile122" parent="." instance=ExtResource( 1 )]
-margin_left = 484.0
-margin_top = 124.0
-margin_right = 484.0
-margin_bottom = 124.0
+anchor_left = 0.317585
+anchor_top = 0.163158
+anchor_right = 0.317585
+anchor_bottom = 0.163158
+margin_left = 3.05176e-05
+margin_right = 3.05176e-05
 
 [node name="MapTile123" parent="." instance=ExtResource( 1 )]
-margin_left = 516.0
-margin_top = 124.0
-margin_right = 516.0
-margin_bottom = 124.0
+anchor_left = 0.338583
+anchor_top = 0.163158
+anchor_right = 0.338583
+anchor_bottom = 0.163158
 
 [node name="MapTile124" parent="." instance=ExtResource( 1 )]
-margin_left = 548.0
-margin_top = 124.0
-margin_right = 548.0
-margin_bottom = 124.0
+anchor_left = 0.35958
+anchor_top = 0.163158
+anchor_right = 0.35958
+anchor_bottom = 0.163158
 
 [node name="MapTile125" parent="." instance=ExtResource( 1 )]
-margin_left = 516.0
-margin_top = 156.0
-margin_right = 516.0
-margin_bottom = 156.0
+anchor_left = 0.338583
+anchor_top = 0.205263
+anchor_right = 0.338583
+anchor_bottom = 0.205263
 
 [node name="MapTile127" parent="." instance=ExtResource( 1 )]
-margin_left = 516.0
-margin_top = 188.0
-margin_right = 516.0
-margin_bottom = 188.0
+anchor_left = 0.338583
+anchor_top = 0.247368
+anchor_right = 0.338583
+anchor_bottom = 0.247368
 
 [node name="MapTile126" parent="." instance=ExtResource( 1 )]
-margin_left = 548.0
-margin_top = 156.0
-margin_right = 548.0
-margin_bottom = 156.0
+anchor_left = 0.35958
+anchor_top = 0.205263
+anchor_right = 0.35958
+anchor_bottom = 0.205263
 
 [node name="MapTile112" parent="." instance=ExtResource( 1 )]
-margin_left = 580.0
-margin_top = 92.0
-margin_right = 580.0
-margin_bottom = 92.0
+anchor_left = 0.380577
+anchor_top = 0.121053
+anchor_right = 0.380577
+anchor_bottom = 0.121053
 
 [node name="MapTile107" parent="." instance=ExtResource( 1 )]
-margin_left = 420.0
-margin_top = 92.0
-margin_right = 420.0
-margin_bottom = 92.0
+anchor_left = 0.275591
+anchor_top = 0.121053
+anchor_right = 0.275591
+anchor_bottom = 0.121053
+margin_left = 3.05176e-05
+margin_right = 3.05176e-05
 
 [node name="MapTile113" parent="." instance=ExtResource( 1 )]
-margin_left = 484.0
-margin_top = 60.0
-margin_right = 484.0
-margin_bottom = 60.0
+anchor_left = 0.317585
+anchor_top = 0.0789474
+anchor_right = 0.317585
+anchor_bottom = 0.0789474
+margin_left = 3.05176e-05
+margin_top = 3.8147e-06
+margin_right = 3.05176e-05
+margin_bottom = 3.8147e-06
 
 [node name="MapTile114" parent="." instance=ExtResource( 1 )]
-margin_left = 516.0
-margin_top = 60.0
-margin_right = 516.0
-margin_bottom = 60.0
+anchor_left = 0.338583
+anchor_top = 0.0789474
+anchor_right = 0.338583
+anchor_bottom = 0.0789474
+margin_top = 3.8147e-06
+margin_bottom = 3.8147e-06
 
 [node name="MapTile115" parent="." instance=ExtResource( 1 )]
-margin_left = 548.0
-margin_top = 60.0
-margin_right = 548.0
-margin_bottom = 60.0
+anchor_left = 0.35958
+anchor_top = 0.0789474
+anchor_right = 0.35958
+anchor_bottom = 0.0789474
+margin_top = 3.8147e-06
+margin_bottom = 3.8147e-06
 
 [node name="MapTile116" parent="." instance=ExtResource( 1 )]
-margin_left = 580.0
-margin_top = 60.0
-margin_right = 580.0
-margin_bottom = 60.0
+anchor_left = 0.380577
+anchor_top = 0.0789474
+anchor_right = 0.380577
+anchor_bottom = 0.0789474
+margin_top = 3.8147e-06
+margin_bottom = 3.8147e-06
 
 [node name="MapTile119" parent="." instance=ExtResource( 1 )]
-margin_left = 516.0
-margin_top = 28.0
-margin_right = 516.0
-margin_bottom = 28.0
+anchor_left = 0.338583
+anchor_top = 0.0368421
+anchor_right = 0.338583
+anchor_bottom = 0.0368421
 
 [node name="MapTile120" parent="." instance=ExtResource( 1 )]
-margin_left = 548.0
-margin_top = 28.0
-margin_right = 548.0
-margin_bottom = 28.0
+anchor_left = 0.35958
+anchor_top = 0.0368421
+anchor_right = 0.35958
+anchor_bottom = 0.0368421
 
 [node name="MapTile121" parent="." instance=ExtResource( 1 )]
-margin_left = 580.0
-margin_top = 28.0
-margin_right = 580.0
-margin_bottom = 28.0
+anchor_left = 0.380577
+anchor_top = 0.0368421
+anchor_right = 0.380577
+anchor_bottom = 0.0368421
 
 [node name="MapTile117" parent="." instance=ExtResource( 1 )]
-margin_left = 612.0
-margin_top = 60.0
-margin_right = 612.0
-margin_bottom = 60.0
+anchor_left = 0.401575
+anchor_top = 0.0789474
+anchor_right = 0.401575
+anchor_bottom = 0.0789474
+margin_top = 3.8147e-06
+margin_bottom = 3.8147e-06
 
 [node name="MapTile133" parent="." instance=ExtResource( 1 )]
-margin_left = 708.0
-margin_top = 220.0
-margin_right = 708.0
-margin_bottom = 220.0
+anchor_left = 0.464567
+anchor_top = 0.289474
+anchor_right = 0.464567
+anchor_bottom = 0.289474
 
 [node name="MapTile134" parent="." instance=ExtResource( 1 )]
-margin_left = 740.0
-margin_top = 252.0
-margin_right = 740.0
-margin_bottom = 252.0
+anchor_left = 0.485564
+anchor_top = 0.331579
+anchor_right = 0.485564
+anchor_bottom = 0.331579
 
 [node name="MapTile135" parent="." instance=ExtResource( 1 )]
-margin_left = 772.0
-margin_top = 252.0
-margin_right = 772.0
-margin_bottom = 252.0
+anchor_left = 0.506562
+anchor_top = 0.331579
+anchor_right = 0.506562
+anchor_bottom = 0.331579
 
 [node name="MapTile136" parent="." instance=ExtResource( 1 )]
-margin_left = 804.0
-margin_top = 252.0
-margin_right = 804.0
-margin_bottom = 252.0
+anchor_left = 0.527559
+anchor_top = 0.331579
+anchor_right = 0.527559
+anchor_bottom = 0.331579
 
 [node name="MapTile137" parent="." instance=ExtResource( 1 )]
-margin_left = 836.0
-margin_top = 252.0
-margin_right = 836.0
-margin_bottom = 252.0
+anchor_left = 0.548556
+anchor_top = 0.331579
+anchor_right = 0.548556
+anchor_bottom = 0.331579
 
 [node name="MapTile149" parent="." instance=ExtResource( 1 )]
-margin_left = 868.0
-margin_top = 220.0
-margin_right = 868.0
-margin_bottom = 220.0
+anchor_left = 0.569554
+anchor_top = 0.289474
+anchor_right = 0.569554
+anchor_bottom = 0.289474
 
 [node name="MapTile154" parent="." instance=ExtResource( 1 )]
-margin_left = 836.0
-margin_top = 124.0
-margin_right = 836.0
-margin_bottom = 124.0
+anchor_left = 0.548556
+anchor_top = 0.163158
+anchor_right = 0.548556
+anchor_bottom = 0.163158
 
 [node name="MapTile155" parent="." instance=ExtResource( 1 )]
-margin_left = 868.0
-margin_top = 124.0
-margin_right = 868.0
-margin_bottom = 124.0
+anchor_left = 0.569554
+anchor_top = 0.163158
+anchor_right = 0.569554
+anchor_bottom = 0.163158
 
 [node name="MapTile138" parent="." instance=ExtResource( 1 )]
-margin_left = 740.0
-margin_top = 284.0
-margin_right = 740.0
-margin_bottom = 284.0
+anchor_left = 0.485564
+anchor_top = 0.373684
+anchor_right = 0.485564
+anchor_bottom = 0.373684
 
 [node name="MapTile139" parent="." instance=ExtResource( 1 )]
-margin_left = 772.0
-margin_top = 284.0
-margin_right = 772.0
-margin_bottom = 284.0
+anchor_left = 0.506562
+anchor_top = 0.373684
+anchor_right = 0.506562
+anchor_bottom = 0.373684
 
 [node name="MapTile150" parent="." instance=ExtResource( 1 )]
-margin_left = 804.0
-margin_top = 156.0
-margin_right = 804.0
-margin_bottom = 156.0
+anchor_left = 0.527559
+anchor_top = 0.205263
+anchor_right = 0.527559
+anchor_bottom = 0.205263
 
 [node name="MapTile151" parent="." instance=ExtResource( 1 )]
-margin_left = 836.0
-margin_top = 156.0
-margin_right = 836.0
-margin_bottom = 156.0
+anchor_left = 0.548556
+anchor_top = 0.205263
+anchor_right = 0.548556
+anchor_bottom = 0.205263
 
 [node name="MapTile156" parent="." instance=ExtResource( 1 )]
-margin_left = 868.0
-margin_top = 156.0
-margin_right = 868.0
-margin_bottom = 156.0
+anchor_left = 0.569554
+anchor_top = 0.205263
+anchor_right = 0.569554
+anchor_bottom = 0.205263
 
 [node name="MapTile158" parent="." instance=ExtResource( 1 )]
-margin_left = 900.0
-margin_top = 188.0
-margin_right = 900.0
-margin_bottom = 188.0
+anchor_left = 0.590551
+anchor_top = 0.247368
+anchor_right = 0.590551
+anchor_bottom = 0.247368
 
 [node name="MapTile159" parent="." instance=ExtResource( 1 )]
-margin_left = 900.0
-margin_top = 220.0
-margin_right = 900.0
-margin_bottom = 220.0
+anchor_left = 0.590551
+anchor_top = 0.289474
+anchor_right = 0.590551
+anchor_bottom = 0.289474
 
 [node name="MapTile160" parent="." instance=ExtResource( 1 )]
-margin_left = 900.0
-margin_top = 252.0
-margin_right = 900.0
-margin_bottom = 252.0
+anchor_left = 0.590551
+anchor_top = 0.331579
+anchor_right = 0.590551
+anchor_bottom = 0.331579
 
 [node name="MapTile161" parent="." instance=ExtResource( 1 )]
-margin_left = 900.0
-margin_top = 284.0
-margin_right = 900.0
-margin_bottom = 284.0
+anchor_left = 0.590551
+anchor_top = 0.373684
+anchor_right = 0.590551
+anchor_bottom = 0.373684
 
 [node name="MapTile221" parent="." instance=ExtResource( 1 )]
-margin_left = 932.0
-margin_top = 188.0
-margin_right = 932.0
-margin_bottom = 188.0
+anchor_left = 0.611549
+anchor_top = 0.247368
+anchor_right = 0.611549
+anchor_bottom = 0.247368
 
 [node name="MapTile222" parent="." instance=ExtResource( 1 )]
-margin_left = 932.0
-margin_top = 220.0
-margin_right = 932.0
-margin_bottom = 220.0
+anchor_left = 0.611549
+anchor_top = 0.289474
+anchor_right = 0.611549
+anchor_bottom = 0.289474
 
 [node name="MapTile223" parent="." instance=ExtResource( 1 )]
-margin_left = 932.0
-margin_top = 252.0
-margin_right = 932.0
-margin_bottom = 252.0
+anchor_left = 0.611549
+anchor_top = 0.331579
+anchor_right = 0.611549
+anchor_bottom = 0.331579
 
 [node name="MapTile224" parent="." instance=ExtResource( 1 )]
-margin_left = 932.0
-margin_top = 284.0
-margin_right = 932.0
-margin_bottom = 284.0
+anchor_left = 0.611549
+anchor_top = 0.373684
+anchor_right = 0.611549
+anchor_bottom = 0.373684
 
 [node name="MapTile225" parent="." instance=ExtResource( 1 )]
-margin_left = 932.0
-margin_top = 316.0
-margin_right = 932.0
-margin_bottom = 316.0
+anchor_left = 0.611549
+anchor_top = 0.415789
+anchor_right = 0.611549
+anchor_bottom = 0.415789
 
 [node name="MapTile152" parent="." instance=ExtResource( 1 )]
-margin_left = 804.0
-margin_top = 188.0
-margin_right = 804.0
-margin_bottom = 188.0
+anchor_left = 0.527559
+anchor_top = 0.247368
+anchor_right = 0.527559
+anchor_bottom = 0.247368
 
 [node name="MapTile153" parent="." instance=ExtResource( 1 )]
-margin_left = 836.0
-margin_top = 188.0
-margin_right = 836.0
-margin_bottom = 188.0
+anchor_left = 0.548556
+anchor_top = 0.247368
+anchor_right = 0.548556
+anchor_bottom = 0.247368
 
 [node name="MapTile146" parent="." instance=ExtResource( 1 )]
-margin_left = 772.0
-margin_top = 316.0
-margin_right = 772.0
-margin_bottom = 316.0
+anchor_left = 0.506562
+anchor_top = 0.415789
+anchor_right = 0.506562
+anchor_bottom = 0.415789
 
 [node name="MapTile147" parent="." instance=ExtResource( 1 )]
-margin_left = 804.0
-margin_top = 348.0
-margin_right = 804.0
-margin_bottom = 348.0
+anchor_left = 0.527559
+anchor_top = 0.457895
+anchor_right = 0.527559
+anchor_bottom = 0.457895
 
 [node name="MapTile148" parent="." instance=ExtResource( 1 )]
-margin_left = 836.0
-margin_top = 316.0
-margin_right = 836.0
-margin_bottom = 316.0
+anchor_left = 0.548556
+anchor_top = 0.415789
+anchor_right = 0.548556
+anchor_bottom = 0.415789
 
 [node name="MapTile142" parent="." instance=ExtResource( 1 )]
-margin_left = 676.0
-margin_top = 316.0
-margin_right = 676.0
-margin_bottom = 316.0
+anchor_left = 0.44357
+anchor_top = 0.415789
+anchor_right = 0.44357
+anchor_bottom = 0.415789
 
 [node name="MapTile143" parent="." instance=ExtResource( 1 )]
-margin_left = 708.0
-margin_top = 316.0
-margin_right = 708.0
-margin_bottom = 316.0
+anchor_left = 0.464567
+anchor_top = 0.415789
+anchor_right = 0.464567
+anchor_bottom = 0.415789
 
 [node name="MapTile144" parent="." instance=ExtResource( 1 )]
-margin_left = 676.0
-margin_top = 348.0
-margin_right = 676.0
-margin_bottom = 348.0
+anchor_left = 0.44357
+anchor_top = 0.457895
+anchor_right = 0.44357
+anchor_bottom = 0.457895
 
 [node name="MapTile145" parent="." instance=ExtResource( 1 )]
-margin_left = 708.0
-margin_top = 348.0
-margin_right = 708.0
-margin_bottom = 348.0
+anchor_left = 0.464567
+anchor_top = 0.457895
+anchor_right = 0.464567
+anchor_bottom = 0.457895
 
 [node name="MapTile140" parent="." instance=ExtResource( 1 )]
-margin_left = 804.0
-margin_top = 284.0
-margin_right = 804.0
-margin_bottom = 284.0
+anchor_left = 0.527559
+anchor_top = 0.373684
+anchor_right = 0.527559
+anchor_bottom = 0.373684
 
 [node name="MapTile162" parent="." instance=ExtResource( 1 )]
-margin_left = 676.0
-margin_top = 412.0
-margin_right = 676.0
-margin_bottom = 412.0
+anchor_left = 0.44357
+anchor_top = 0.542105
+anchor_right = 0.44357
+anchor_bottom = 0.542105
 
 [node name="MapTile163" parent="." instance=ExtResource( 1 )]
-margin_left = 708.0
-margin_top = 412.0
-margin_right = 708.0
-margin_bottom = 412.0
+anchor_left = 0.464567
+anchor_top = 0.542105
+anchor_right = 0.464567
+anchor_bottom = 0.542105
 
 [node name="MapTile164" parent="." instance=ExtResource( 1 )]
-margin_left = 740.0
-margin_top = 412.0
-margin_right = 740.0
-margin_bottom = 412.0
+anchor_left = 0.485564
+anchor_top = 0.542105
+anchor_right = 0.485564
+anchor_bottom = 0.542105
 
 [node name="MapTile165" parent="." instance=ExtResource( 1 )]
-margin_left = 644.0
-margin_top = 444.0
-margin_right = 644.0
-margin_bottom = 444.0
+anchor_left = 0.422572
+anchor_top = 0.584211
+anchor_right = 0.422572
+anchor_bottom = 0.584211
 
 [node name="MapTile166" parent="." instance=ExtResource( 1 )]
-margin_left = 676.0
-margin_top = 444.0
-margin_right = 676.0
-margin_bottom = 444.0
+anchor_left = 0.44357
+anchor_top = 0.584211
+anchor_right = 0.44357
+anchor_bottom = 0.584211
 
 [node name="MapTile167" parent="." instance=ExtResource( 1 )]
-margin_left = 708.0
-margin_top = 444.0
-margin_right = 708.0
-margin_bottom = 444.0
+anchor_left = 0.464567
+anchor_top = 0.584211
+anchor_right = 0.464567
+anchor_bottom = 0.584211
 
 [node name="MapTile168" parent="." instance=ExtResource( 1 )]
-margin_left = 740.0
-margin_top = 444.0
-margin_right = 740.0
-margin_bottom = 444.0
+anchor_left = 0.485564
+anchor_top = 0.584211
+anchor_right = 0.485564
+anchor_bottom = 0.584211
 
 [node name="MapTile169" parent="." instance=ExtResource( 1 )]
-margin_left = 772.0
-margin_top = 444.0
-margin_right = 772.0
-margin_bottom = 444.0
+anchor_left = 0.506562
+anchor_top = 0.584211
+anchor_right = 0.506562
+anchor_bottom = 0.584211
 
 [node name="MapTile170" parent="." instance=ExtResource( 1 )]
-margin_left = 804.0
-margin_top = 444.0
-margin_right = 804.0
-margin_bottom = 444.0
+anchor_left = 0.527559
+anchor_top = 0.584211
+anchor_right = 0.527559
+anchor_bottom = 0.584211
 
 [node name="MapTile171" parent="." instance=ExtResource( 1 )]
-margin_left = 836.0
-margin_top = 444.0
-margin_right = 836.0
-margin_bottom = 444.0
+anchor_left = 0.548556
+anchor_top = 0.584211
+anchor_right = 0.548556
+anchor_bottom = 0.584211
 
 [node name="MapTile172" parent="." instance=ExtResource( 1 )]
-margin_left = 644.0
-margin_top = 476.0
-margin_right = 644.0
-margin_bottom = 476.0
+anchor_left = 0.422572
+anchor_top = 0.626316
+anchor_right = 0.422572
+anchor_bottom = 0.626316
 
 [node name="MapTile173" parent="." instance=ExtResource( 1 )]
-margin_left = 676.0
-margin_top = 476.0
-margin_right = 676.0
-margin_bottom = 476.0
+anchor_left = 0.44357
+anchor_top = 0.626316
+anchor_right = 0.44357
+anchor_bottom = 0.626316
 
 [node name="MapTile174" parent="." instance=ExtResource( 1 )]
-margin_left = 708.0
-margin_top = 476.0
-margin_right = 708.0
-margin_bottom = 476.0
+anchor_left = 0.464567
+anchor_top = 0.626316
+anchor_right = 0.464567
+anchor_bottom = 0.626316
 
 [node name="MapTile175" parent="." instance=ExtResource( 1 )]
-margin_left = 740.0
-margin_top = 476.0
-margin_right = 740.0
-margin_bottom = 476.0
+anchor_left = 0.485564
+anchor_top = 0.626316
+anchor_right = 0.485564
+anchor_bottom = 0.626316
 
 [node name="MapTile176" parent="." instance=ExtResource( 1 )]
-margin_left = 772.0
-margin_top = 476.0
-margin_right = 772.0
-margin_bottom = 476.0
+anchor_left = 0.506562
+anchor_top = 0.626316
+anchor_right = 0.506562
+anchor_bottom = 0.626316
 
 [node name="MapTile177" parent="." instance=ExtResource( 1 )]
-margin_left = 804.0
-margin_top = 476.0
-margin_right = 804.0
-margin_bottom = 476.0
+anchor_left = 0.527559
+anchor_top = 0.626316
+anchor_right = 0.527559
+anchor_bottom = 0.626316
 
 [node name="MapTile178" parent="." instance=ExtResource( 1 )]
-margin_left = 836.0
-margin_top = 476.0
-margin_right = 836.0
-margin_bottom = 476.0
+anchor_left = 0.548556
+anchor_top = 0.626316
+anchor_right = 0.548556
+anchor_bottom = 0.626316
 
 [node name="MapTile188" parent="." instance=ExtResource( 1 )]
-margin_left = 676.0
-margin_top = 540.0
-margin_right = 676.0
-margin_bottom = 540.0
+anchor_left = 0.44357
+anchor_top = 0.710526
+anchor_right = 0.44357
+anchor_bottom = 0.710526
 
 [node name="MapTile189" parent="." instance=ExtResource( 1 )]
-margin_left = 708.0
-margin_top = 540.0
-margin_right = 708.0
-margin_bottom = 540.0
+anchor_left = 0.464567
+anchor_top = 0.710526
+anchor_right = 0.464567
+anchor_bottom = 0.710526
 
 [node name="MapTile190" parent="." instance=ExtResource( 1 )]
-margin_left = 740.0
-margin_top = 540.0
-margin_right = 740.0
-margin_bottom = 540.0
+anchor_left = 0.485564
+anchor_top = 0.710526
+anchor_right = 0.485564
+anchor_bottom = 0.710526
 
 [node name="MapTile191" parent="." instance=ExtResource( 1 )]
-margin_left = 772.0
-margin_top = 540.0
-margin_right = 772.0
-margin_bottom = 540.0
+anchor_left = 0.506562
+anchor_top = 0.710526
+anchor_right = 0.506562
+anchor_bottom = 0.710526
 
 [node name="MapTile192" parent="." instance=ExtResource( 1 )]
-margin_left = 804.0
-margin_top = 540.0
-margin_right = 804.0
-margin_bottom = 540.0
+anchor_left = 0.527559
+anchor_top = 0.710526
+anchor_right = 0.527559
+anchor_bottom = 0.710526
 
 [node name="MapTile193" parent="." instance=ExtResource( 1 )]
-margin_left = 836.0
-margin_top = 540.0
-margin_right = 836.0
-margin_bottom = 540.0
+anchor_left = 0.548556
+anchor_top = 0.710526
+anchor_right = 0.548556
+anchor_bottom = 0.710526
 
 [node name="MapTile194" parent="." instance=ExtResource( 1 )]
-margin_left = 868.0
-margin_top = 540.0
-margin_right = 868.0
-margin_bottom = 540.0
+anchor_left = 0.569554
+anchor_top = 0.710526
+anchor_right = 0.569554
+anchor_bottom = 0.710526
 
 [node name="MapTile195" parent="." instance=ExtResource( 1 )]
-margin_left = 740.0
-margin_top = 572.0
-margin_right = 740.0
-margin_bottom = 572.0
+anchor_left = 0.485564
+anchor_top = 0.752632
+anchor_right = 0.485564
+anchor_bottom = 0.752632
 
 [node name="MapTile196" parent="." instance=ExtResource( 1 )]
-margin_left = 772.0
-margin_top = 572.0
-margin_right = 772.0
-margin_bottom = 572.0
+anchor_left = 0.506562
+anchor_top = 0.752632
+anchor_right = 0.506562
+anchor_bottom = 0.752632
 
 [node name="MapTile197" parent="." instance=ExtResource( 1 )]
-margin_left = 804.0
-margin_top = 572.0
-margin_right = 804.0
-margin_bottom = 572.0
+anchor_left = 0.527559
+anchor_top = 0.752632
+anchor_right = 0.527559
+anchor_bottom = 0.752632
 
 [node name="MapTile198" parent="." instance=ExtResource( 1 )]
-margin_left = 836.0
-margin_top = 572.0
-margin_right = 836.0
-margin_bottom = 572.0
+anchor_left = 0.548556
+anchor_top = 0.752632
+anchor_right = 0.548556
+anchor_bottom = 0.752632
 
 [node name="MapTile199" parent="." instance=ExtResource( 1 )]
-margin_left = 868.0
-margin_top = 572.0
-margin_right = 868.0
-margin_bottom = 572.0
+anchor_left = 0.569554
+anchor_top = 0.752632
+anchor_right = 0.569554
+anchor_bottom = 0.752632
 
 [node name="MapTile200" parent="." instance=ExtResource( 1 )]
-margin_left = 772.0
-margin_top = 604.0
-margin_right = 772.0
-margin_bottom = 604.0
+anchor_left = 0.506562
+anchor_top = 0.794737
+anchor_right = 0.506562
+anchor_bottom = 0.794737
 
 [node name="MapTile201" parent="." instance=ExtResource( 1 )]
-margin_left = 804.0
-margin_top = 604.0
-margin_right = 804.0
-margin_bottom = 604.0
+anchor_left = 0.527559
+anchor_top = 0.794737
+anchor_right = 0.527559
+anchor_bottom = 0.794737
 
 [node name="MapTile202" parent="." instance=ExtResource( 1 )]
-margin_left = 836.0
-margin_top = 604.0
-margin_right = 836.0
-margin_bottom = 604.0
+anchor_left = 0.548556
+anchor_top = 0.794737
+anchor_right = 0.548556
+anchor_bottom = 0.794737
 
 [node name="MapTile204" parent="." instance=ExtResource( 1 )]
-margin_left = 772.0
-margin_top = 636.0
-margin_right = 772.0
-margin_bottom = 636.0
+anchor_left = 0.506562
+anchor_top = 0.836842
+anchor_right = 0.506562
+anchor_bottom = 0.836842
 
 [node name="MapTile205" parent="." instance=ExtResource( 1 )]
-margin_left = 804.0
-margin_top = 636.0
-margin_right = 804.0
-margin_bottom = 636.0
+anchor_left = 0.527559
+anchor_top = 0.836842
+anchor_right = 0.527559
+anchor_bottom = 0.836842
 
 [node name="MapTile206" parent="." instance=ExtResource( 1 )]
-margin_left = 836.0
-margin_top = 636.0
-margin_right = 836.0
-margin_bottom = 636.0
+anchor_left = 0.548556
+anchor_top = 0.836842
+anchor_right = 0.548556
+anchor_bottom = 0.836842
 
 [node name="MapTile207" parent="." instance=ExtResource( 1 )]
-margin_left = 772.0
-margin_top = 668.0
-margin_right = 772.0
-margin_bottom = 668.0
+anchor_left = 0.506562
+anchor_top = 0.878947
+anchor_right = 0.506562
+anchor_bottom = 0.878947
 
 [node name="MapTile208" parent="." instance=ExtResource( 1 )]
-margin_left = 804.0
-margin_top = 668.0
-margin_right = 804.0
-margin_bottom = 668.0
+anchor_left = 0.527559
+anchor_top = 0.878947
+anchor_right = 0.527559
+anchor_bottom = 0.878947
 
 [node name="MapTile210" parent="." instance=ExtResource( 1 )]
-margin_left = 804.0
-margin_top = 700.0
-margin_right = 804.0
-margin_bottom = 700.0
+anchor_left = 0.527559
+anchor_top = 0.921053
+anchor_right = 0.527559
+anchor_bottom = 0.921053
 
 [node name="MapTile209" parent="." instance=ExtResource( 1 )]
-margin_left = 836.0
-margin_top = 668.0
-margin_right = 836.0
-margin_bottom = 668.0
+anchor_left = 0.548556
+anchor_top = 0.878947
+anchor_right = 0.548556
+anchor_bottom = 0.878947
 
 [node name="MapTile203" parent="." instance=ExtResource( 1 )]
-margin_left = 868.0
-margin_top = 604.0
-margin_right = 868.0
-margin_bottom = 604.0
+anchor_left = 0.569554
+anchor_top = 0.794737
+anchor_right = 0.569554
+anchor_bottom = 0.794737
 
 [node name="MapTile179" parent="." instance=ExtResource( 1 )]
-margin_left = 644.0
-margin_top = 508.0
-margin_right = 644.0
-margin_bottom = 508.0
+anchor_left = 0.422572
+anchor_top = 0.668421
+anchor_right = 0.422572
+anchor_bottom = 0.668421
+margin_top = 3.05176e-05
+margin_bottom = 3.05176e-05
 
 [node name="MapTile180" parent="." instance=ExtResource( 1 )]
-margin_left = 676.0
-margin_top = 508.0
-margin_right = 676.0
-margin_bottom = 508.0
+anchor_left = 0.44357
+anchor_top = 0.668421
+anchor_right = 0.44357
+anchor_bottom = 0.668421
+margin_top = 3.05176e-05
+margin_bottom = 3.05176e-05
 
 [node name="MapTile181" parent="." instance=ExtResource( 1 )]
-margin_left = 708.0
-margin_top = 508.0
-margin_right = 708.0
-margin_bottom = 508.0
+anchor_left = 0.464567
+anchor_top = 0.668421
+anchor_right = 0.464567
+anchor_bottom = 0.668421
+margin_top = 3.05176e-05
+margin_bottom = 3.05176e-05
 
 [node name="MapTile182" parent="." instance=ExtResource( 1 )]
-margin_left = 740.0
-margin_top = 508.0
-margin_right = 740.0
-margin_bottom = 508.0
+anchor_left = 0.485564
+anchor_top = 0.668421
+anchor_right = 0.485564
+anchor_bottom = 0.668421
+margin_top = 3.05176e-05
+margin_bottom = 3.05176e-05
 
 [node name="MapTile183" parent="." instance=ExtResource( 1 )]
-margin_left = 772.0
-margin_top = 508.0
-margin_right = 772.0
-margin_bottom = 508.0
+anchor_left = 0.506562
+anchor_top = 0.668421
+anchor_right = 0.506562
+anchor_bottom = 0.668421
+margin_top = 3.05176e-05
+margin_bottom = 3.05176e-05
 
 [node name="MapTile184" parent="." instance=ExtResource( 1 )]
-margin_left = 804.0
-margin_top = 508.0
-margin_right = 804.0
-margin_bottom = 508.0
+anchor_left = 0.527559
+anchor_top = 0.668421
+anchor_right = 0.527559
+anchor_bottom = 0.668421
+margin_top = 3.05176e-05
+margin_bottom = 3.05176e-05
 
 [node name="MapTile185" parent="." instance=ExtResource( 1 )]
-margin_left = 836.0
-margin_top = 508.0
-margin_right = 836.0
-margin_bottom = 508.0
+anchor_left = 0.548556
+anchor_top = 0.668421
+anchor_right = 0.548556
+anchor_bottom = 0.668421
+margin_top = 3.05176e-05
+margin_bottom = 3.05176e-05
 
 [node name="MapTile186" parent="." instance=ExtResource( 1 )]
-margin_left = 868.0
-margin_top = 508.0
-margin_right = 868.0
-margin_bottom = 508.0
+anchor_left = 0.569554
+anchor_top = 0.668421
+anchor_right = 0.569554
+anchor_bottom = 0.668421
+margin_top = 3.05176e-05
+margin_bottom = 3.05176e-05
 
 [node name="MapTile187" parent="." instance=ExtResource( 1 )]
-margin_left = 900.0
-margin_top = 508.0
-margin_right = 900.0
-margin_bottom = 508.0
+anchor_left = 0.590551
+anchor_top = 0.668421
+anchor_right = 0.590551
+anchor_bottom = 0.668421
+margin_top = 3.05176e-05
+margin_bottom = 3.05176e-05
 
 [node name="MapTile141" parent="." instance=ExtResource( 1 )]
-margin_left = 836.0
-margin_top = 284.0
-margin_right = 836.0
-margin_bottom = 284.0
+anchor_left = 0.548556
+anchor_top = 0.373684
+anchor_right = 0.548556
+anchor_bottom = 0.373684
 
 [node name="MapTile211" parent="." instance=ExtResource( 1 )]
-margin_left = 868.0
-margin_top = 252.0
-margin_right = 868.0
-margin_bottom = 252.0
+anchor_left = 0.569554
+anchor_top = 0.331579
+anchor_right = 0.569554
+anchor_bottom = 0.331579
 
 [node name="MapTile212" parent="." instance=ExtResource( 1 )]
-margin_left = 868.0
-margin_top = 284.0
-margin_right = 868.0
-margin_bottom = 284.0
+anchor_left = 0.569554
+anchor_top = 0.373684
+anchor_right = 0.569554
+anchor_bottom = 0.373684
 
 [node name="MapTile213" parent="." instance=ExtResource( 1 )]
-margin_left = 900.0
-margin_top = 348.0
-margin_right = 900.0
-margin_bottom = 348.0
+anchor_left = 0.590551
+anchor_top = 0.457895
+anchor_right = 0.590551
+anchor_bottom = 0.457895
 
 [node name="MapTile219" parent="." instance=ExtResource( 1 )]
-margin_left = 932.0
-margin_top = 348.0
-margin_right = 932.0
-margin_bottom = 348.0
+anchor_left = 0.611549
+anchor_top = 0.457895
+anchor_right = 0.611549
+anchor_bottom = 0.457895
 
 [node name="MapTile226" parent="." instance=ExtResource( 1 )]
-margin_left = 964.0
-margin_top = 188.0
-margin_right = 964.0
-margin_bottom = 188.0
+anchor_left = 0.632546
+anchor_top = 0.247368
+anchor_right = 0.632546
+anchor_bottom = 0.247368
 
 [node name="MapTile298" parent="." instance=ExtResource( 1 )]
-margin_left = 900.0
-margin_top = 156.0
-margin_right = 900.0
-margin_bottom = 156.0
+anchor_left = 0.590551
+anchor_top = 0.205263
+anchor_right = 0.590551
+anchor_bottom = 0.205263
 
 [node name="MapTile227" parent="." instance=ExtResource( 1 )]
-margin_left = 964.0
-margin_top = 220.0
-margin_right = 964.0
-margin_bottom = 220.0
+anchor_left = 0.632546
+anchor_top = 0.289474
+anchor_right = 0.632546
+anchor_bottom = 0.289474
 
 [node name="MapTile228" parent="." instance=ExtResource( 1 )]
-margin_left = 964.0
-margin_top = 252.0
-margin_right = 964.0
-margin_bottom = 252.0
+anchor_left = 0.632546
+anchor_top = 0.331579
+anchor_right = 0.632546
+anchor_bottom = 0.331579
 
 [node name="MapTile229" parent="." instance=ExtResource( 1 )]
-margin_left = 964.0
-margin_top = 284.0
-margin_right = 964.0
-margin_bottom = 284.0
+anchor_left = 0.632546
+anchor_top = 0.373684
+anchor_right = 0.632546
+anchor_bottom = 0.373684
 
 [node name="MapTile230" parent="." instance=ExtResource( 1 )]
-margin_left = 964.0
-margin_top = 316.0
-margin_right = 964.0
-margin_bottom = 316.0
+anchor_left = 0.632546
+anchor_top = 0.415789
+anchor_right = 0.632546
+anchor_bottom = 0.415789
 
 [node name="MapTile231" parent="." instance=ExtResource( 1 )]
-margin_left = 964.0
-margin_top = 348.0
-margin_right = 964.0
-margin_bottom = 348.0
+anchor_left = 0.632546
+anchor_top = 0.457895
+anchor_right = 0.632546
+anchor_bottom = 0.457895
 
 [node name="MapTile232" parent="." instance=ExtResource( 1 )]
-margin_left = 964.0
-margin_top = 380.0
-margin_right = 964.0
-margin_bottom = 380.0
+anchor_left = 0.632546
+anchor_top = 0.5
+anchor_right = 0.632546
+anchor_bottom = 0.5
 
 [node name="MapTile234" parent="." instance=ExtResource( 1 )]
-margin_left = 996.0
-margin_top = 188.0
-margin_right = 996.0
-margin_bottom = 188.0
+anchor_left = 0.653543
+anchor_top = 0.247368
+anchor_right = 0.653543
+anchor_bottom = 0.247368
 
 [node name="MapTile235" parent="." instance=ExtResource( 1 )]
-margin_left = 996.0
-margin_top = 156.0
-margin_right = 996.0
-margin_bottom = 156.0
+anchor_left = 0.653543
+anchor_top = 0.205263
+anchor_right = 0.653543
+anchor_bottom = 0.205263
 
 [node name="MapTile236" parent="." instance=ExtResource( 1 )]
-margin_left = 996.0
-margin_top = 220.0
-margin_right = 996.0
-margin_bottom = 220.0
+anchor_left = 0.653543
+anchor_top = 0.289474
+anchor_right = 0.653543
+anchor_bottom = 0.289474
 
 [node name="MapTile237" parent="." instance=ExtResource( 1 )]
-margin_left = 996.0
-margin_top = 252.0
-margin_right = 996.0
-margin_bottom = 252.0
+anchor_left = 0.653543
+anchor_top = 0.331579
+anchor_right = 0.653543
+anchor_bottom = 0.331579
 
 [node name="MapTile238" parent="." instance=ExtResource( 1 )]
-margin_left = 996.0
-margin_top = 284.0
-margin_right = 996.0
-margin_bottom = 284.0
+anchor_left = 0.653543
+anchor_top = 0.373684
+anchor_right = 0.653543
+anchor_bottom = 0.373684
 
 [node name="MapTile239" parent="." instance=ExtResource( 1 )]
-margin_left = 996.0
-margin_top = 316.0
-margin_right = 996.0
-margin_bottom = 316.0
+anchor_left = 0.653543
+anchor_top = 0.415789
+anchor_right = 0.653543
+anchor_bottom = 0.415789
 
 [node name="MapTile240" parent="." instance=ExtResource( 1 )]
-margin_left = 996.0
-margin_top = 348.0
-margin_right = 996.0
-margin_bottom = 348.0
+anchor_left = 0.653543
+anchor_top = 0.457895
+anchor_right = 0.653543
+anchor_bottom = 0.457895
 
 [node name="MapTile241" parent="." instance=ExtResource( 1 )]
-margin_left = 996.0
-margin_top = 380.0
-margin_right = 996.0
-margin_bottom = 380.0
+anchor_left = 0.653543
+anchor_top = 0.5
+anchor_right = 0.653543
+anchor_bottom = 0.5
 
 [node name="MapTile242" parent="." instance=ExtResource( 1 )]
-margin_left = 1028.0
-margin_top = 188.0
-margin_right = 1028.0
-margin_bottom = 188.0
+anchor_left = 0.674541
+anchor_top = 0.247368
+anchor_right = 0.674541
+anchor_bottom = 0.247368
 
 [node name="MapTile243" parent="." instance=ExtResource( 1 )]
-margin_left = 1028.0
-margin_top = 156.0
-margin_right = 1028.0
-margin_bottom = 156.0
+anchor_left = 0.674541
+anchor_top = 0.205263
+anchor_right = 0.674541
+anchor_bottom = 0.205263
 
 [node name="MapTile299" parent="." instance=ExtResource( 1 )]
-margin_left = 1028.0
-margin_top = 124.0
-margin_right = 1028.0
-margin_bottom = 124.0
+anchor_left = 0.674541
+anchor_top = 0.163158
+anchor_right = 0.674541
+anchor_bottom = 0.163158
 
 [node name="MapTile300" parent="." instance=ExtResource( 1 )]
-margin_left = 1060.0
-margin_top = 124.0
-margin_right = 1060.0
-margin_bottom = 124.0
+anchor_left = 0.695538
+anchor_top = 0.163158
+anchor_right = 0.695538
+anchor_bottom = 0.163158
 
 [node name="MapTile301" parent="." instance=ExtResource( 1 )]
-margin_left = 1060.0
-margin_top = 92.0
-margin_right = 1060.0
-margin_bottom = 92.0
+anchor_left = 0.695538
+anchor_top = 0.121053
+anchor_right = 0.695538
+anchor_bottom = 0.121053
 
 [node name="MapTile244" parent="." instance=ExtResource( 1 )]
-margin_left = 1028.0
-margin_top = 220.0
-margin_right = 1028.0
-margin_bottom = 220.0
+anchor_left = 0.674541
+anchor_top = 0.289474
+anchor_right = 0.674541
+anchor_bottom = 0.289474
 
 [node name="MapTile245" parent="." instance=ExtResource( 1 )]
-margin_left = 1028.0
-margin_top = 252.0
-margin_right = 1028.0
-margin_bottom = 252.0
+anchor_left = 0.674541
+anchor_top = 0.331579
+anchor_right = 0.674541
+anchor_bottom = 0.331579
 
 [node name="MapTile246" parent="." instance=ExtResource( 1 )]
-margin_left = 1028.0
-margin_top = 284.0
-margin_right = 1028.0
-margin_bottom = 284.0
+anchor_left = 0.674541
+anchor_top = 0.373684
+anchor_right = 0.674541
+anchor_bottom = 0.373684
 
 [node name="MapTile247" parent="." instance=ExtResource( 1 )]
-margin_left = 1028.0
-margin_top = 316.0
-margin_right = 1028.0
-margin_bottom = 316.0
+anchor_left = 0.674541
+anchor_top = 0.415789
+anchor_right = 0.674541
+anchor_bottom = 0.415789
 
 [node name="MapTile248" parent="." instance=ExtResource( 1 )]
-margin_left = 1028.0
-margin_top = 348.0
-margin_right = 1028.0
-margin_bottom = 348.0
+anchor_left = 0.674541
+anchor_top = 0.457895
+anchor_right = 0.674541
+anchor_bottom = 0.457895
 
 [node name="MapTile249" parent="." instance=ExtResource( 1 )]
-margin_left = 1028.0
-margin_top = 380.0
-margin_right = 1028.0
-margin_bottom = 380.0
+anchor_left = 0.674541
+anchor_top = 0.5
+anchor_right = 0.674541
+anchor_bottom = 0.5
 
 [node name="MapTile316" parent="." instance=ExtResource( 1 )]
-margin_left = 1028.0
-margin_top = 444.0
-margin_right = 1028.0
-margin_bottom = 444.0
+anchor_left = 0.674541
+anchor_top = 0.584211
+anchor_right = 0.674541
+anchor_bottom = 0.584211
 
 [node name="MapTile317" parent="." instance=ExtResource( 1 )]
-margin_left = 1028.0
-margin_top = 476.0
-margin_right = 1028.0
-margin_bottom = 476.0
+anchor_left = 0.674541
+anchor_top = 0.626316
+anchor_right = 0.674541
+anchor_bottom = 0.626316
 
 [node name="MapTile321" parent="." instance=ExtResource( 1 )]
-margin_left = 1156.0
-margin_top = 444.0
-margin_right = 1156.0
-margin_bottom = 444.0
+anchor_left = 0.75853
+anchor_top = 0.584211
+anchor_right = 0.75853
+anchor_bottom = 0.584211
 
 [node name="MapTile323" parent="." instance=ExtResource( 1 )]
-margin_left = 1188.0
-margin_top = 444.0
-margin_right = 1188.0
-margin_bottom = 444.0
+anchor_left = 0.779528
+anchor_top = 0.584211
+anchor_right = 0.779528
+anchor_bottom = 0.584211
 
 [node name="MapTile333" parent="." instance=ExtResource( 1 )]
-margin_left = 1252.0
-margin_top = 444.0
-margin_right = 1252.0
-margin_bottom = 444.0
+anchor_left = 0.821522
+anchor_top = 0.584211
+anchor_right = 0.821522
+anchor_bottom = 0.584211
 
 [node name="MapTile322" parent="." instance=ExtResource( 1 )]
-margin_left = 1156.0
-margin_top = 476.0
-margin_right = 1156.0
-margin_bottom = 476.0
+anchor_left = 0.75853
+anchor_top = 0.626316
+anchor_right = 0.75853
+anchor_bottom = 0.626316
 
 [node name="MapTile318" parent="." instance=ExtResource( 1 )]
-margin_left = 1060.0
-margin_top = 444.0
-margin_right = 1060.0
-margin_bottom = 444.0
+anchor_left = 0.695538
+anchor_top = 0.584211
+anchor_right = 0.695538
+anchor_bottom = 0.584211
 
 [node name="MapTile319" parent="." instance=ExtResource( 1 )]
-margin_left = 1060.0
-margin_top = 476.0
-margin_right = 1060.0
-margin_bottom = 476.0
+anchor_left = 0.695538
+anchor_top = 0.626316
+anchor_right = 0.695538
+anchor_bottom = 0.626316
 
 [node name="MapTile324" parent="." instance=ExtResource( 1 )]
-margin_left = 1188.0
-margin_top = 508.0
-margin_right = 1188.0
-margin_bottom = 508.0
+anchor_left = 0.779528
+anchor_top = 0.668421
+anchor_right = 0.779528
+anchor_bottom = 0.668421
+margin_top = 3.05176e-05
+margin_bottom = 3.05176e-05
 
 [node name="MapTile325" parent="." instance=ExtResource( 1 )]
-margin_left = 1220.0
-margin_top = 508.0
-margin_right = 1220.0
-margin_bottom = 508.0
+anchor_left = 0.800525
+anchor_top = 0.668421
+anchor_right = 0.800525
+anchor_bottom = 0.668421
+margin_top = 3.05176e-05
+margin_bottom = 3.05176e-05
 
 [node name="MapTile370" parent="." instance=ExtResource( 1 )]
-margin_left = 1252.0
-margin_top = 572.0
-margin_right = 1252.0
-margin_bottom = 572.0
+anchor_left = 0.821522
+anchor_top = 0.752632
+anchor_right = 0.821522
+anchor_bottom = 0.752632
 
 [node name="MapTile371" parent="." instance=ExtResource( 1 )]
-margin_left = 1252.0
-margin_top = 604.0
-margin_right = 1252.0
-margin_bottom = 604.0
+anchor_left = 0.821522
+anchor_top = 0.794737
+anchor_right = 0.821522
+anchor_bottom = 0.794737
 
 [node name="MapTile372" parent="." instance=ExtResource( 1 )]
-margin_left = 1220.0
-margin_top = 604.0
-margin_right = 1220.0
-margin_bottom = 604.0
+anchor_left = 0.800525
+anchor_top = 0.794737
+anchor_right = 0.800525
+anchor_bottom = 0.794737
 
 [node name="MapTile373" parent="." instance=ExtResource( 1 )]
-margin_left = 1316.0
-margin_top = 604.0
-margin_right = 1316.0
-margin_bottom = 604.0
+anchor_left = 0.863517
+anchor_top = 0.794737
+anchor_right = 0.863517
+anchor_bottom = 0.794737
 
 [node name="MapTile375" parent="." instance=ExtResource( 1 )]
-margin_left = 1316.0
-margin_top = 572.0
-margin_right = 1316.0
-margin_bottom = 572.0
+anchor_left = 0.863517
+anchor_top = 0.752632
+anchor_right = 0.863517
+anchor_bottom = 0.752632
 
 [node name="MapTile374" parent="." instance=ExtResource( 1 )]
-margin_left = 1284.0
-margin_top = 604.0
-margin_right = 1284.0
-margin_bottom = 604.0
+anchor_left = 0.84252
+anchor_top = 0.794737
+anchor_right = 0.84252
+anchor_bottom = 0.794737
 
 [node name="MapTile376" parent="." instance=ExtResource( 1 )]
-margin_left = 1252.0
-margin_top = 636.0
-margin_right = 1252.0
-margin_bottom = 636.0
+anchor_left = 0.821522
+anchor_top = 0.836842
+anchor_right = 0.821522
+anchor_bottom = 0.836842
 
 [node name="MapTile377" parent="." instance=ExtResource( 1 )]
-margin_left = 1220.0
-margin_top = 636.0
-margin_right = 1220.0
-margin_bottom = 636.0
+anchor_left = 0.800525
+anchor_top = 0.836842
+anchor_right = 0.800525
+anchor_bottom = 0.836842
 
 [node name="MapTile380" parent="." instance=ExtResource( 1 )]
-margin_left = 1188.0
-margin_top = 636.0
-margin_right = 1188.0
-margin_bottom = 636.0
+anchor_left = 0.779528
+anchor_top = 0.836842
+anchor_right = 0.779528
+anchor_bottom = 0.836842
 
 [node name="MapTile378" parent="." instance=ExtResource( 1 )]
-margin_left = 1316.0
-margin_top = 636.0
-margin_right = 1316.0
-margin_bottom = 636.0
+anchor_left = 0.863517
+anchor_top = 0.836842
+anchor_right = 0.863517
+anchor_bottom = 0.836842
 
 [node name="MapTile381" parent="." instance=ExtResource( 1 )]
-margin_left = 1348.0
-margin_top = 636.0
-margin_right = 1348.0
-margin_bottom = 636.0
+anchor_left = 0.884514
+anchor_top = 0.836842
+anchor_right = 0.884514
+anchor_bottom = 0.836842
 
 [node name="MapTile379" parent="." instance=ExtResource( 1 )]
-margin_left = 1284.0
-margin_top = 636.0
-margin_right = 1284.0
-margin_bottom = 636.0
+anchor_left = 0.84252
+anchor_top = 0.836842
+anchor_right = 0.84252
+anchor_bottom = 0.836842
 
 [node name="MapTile382" parent="." instance=ExtResource( 1 )]
-margin_left = 1252.0
-margin_top = 668.0
-margin_right = 1252.0
-margin_bottom = 668.0
+anchor_left = 0.821522
+anchor_top = 0.878947
+anchor_right = 0.821522
+anchor_bottom = 0.878947
 
 [node name="MapTile383" parent="." instance=ExtResource( 1 )]
-margin_left = 1220.0
-margin_top = 668.0
-margin_right = 1220.0
-margin_bottom = 668.0
+anchor_left = 0.800525
+anchor_top = 0.878947
+anchor_right = 0.800525
+anchor_bottom = 0.878947
 
 [node name="MapTile384" parent="." instance=ExtResource( 1 )]
-margin_left = 1188.0
-margin_top = 668.0
-margin_right = 1188.0
-margin_bottom = 668.0
+anchor_left = 0.779528
+anchor_top = 0.878947
+anchor_right = 0.779528
+anchor_bottom = 0.878947
 
 [node name="MapTile385" parent="." instance=ExtResource( 1 )]
-margin_left = 1316.0
-margin_top = 668.0
-margin_right = 1316.0
-margin_bottom = 668.0
+anchor_left = 0.863517
+anchor_top = 0.878947
+anchor_right = 0.863517
+anchor_bottom = 0.878947
 
 [node name="MapTile386" parent="." instance=ExtResource( 1 )]
-margin_left = 1348.0
-margin_top = 668.0
-margin_right = 1348.0
-margin_bottom = 668.0
+anchor_left = 0.884514
+anchor_top = 0.878947
+anchor_right = 0.884514
+anchor_bottom = 0.878947
 
 [node name="MapTile387" parent="." instance=ExtResource( 1 )]
-margin_left = 1284.0
-margin_top = 668.0
-margin_right = 1284.0
-margin_bottom = 668.0
+anchor_left = 0.84252
+anchor_top = 0.878947
+anchor_right = 0.84252
+anchor_bottom = 0.878947
 
 [node name="MapTile388" parent="." instance=ExtResource( 1 )]
-margin_left = 1316.0
-margin_top = 700.0
-margin_right = 1316.0
-margin_bottom = 700.0
+anchor_left = 0.863517
+anchor_top = 0.921053
+anchor_right = 0.863517
+anchor_bottom = 0.921053
 
 [node name="MapTile389" parent="." instance=ExtResource( 1 )]
-margin_left = 1284.0
-margin_top = 700.0
-margin_right = 1284.0
-margin_bottom = 700.0
+anchor_left = 0.84252
+anchor_top = 0.921053
+anchor_right = 0.84252
+anchor_bottom = 0.921053
 
 [node name="MapTile320" parent="." instance=ExtResource( 1 )]
-margin_left = 1060.0
-margin_top = 508.0
-margin_right = 1060.0
-margin_bottom = 508.0
+anchor_left = 0.695538
+anchor_top = 0.668421
+anchor_right = 0.695538
+anchor_bottom = 0.668421
+margin_top = 3.05176e-05
+margin_bottom = 3.05176e-05
 
 [node name="MapTile250" parent="." instance=ExtResource( 1 )]
-margin_left = 1060.0
-margin_top = 188.0
-margin_right = 1060.0
-margin_bottom = 188.0
+anchor_left = 0.695538
+anchor_top = 0.247368
+anchor_right = 0.695538
+anchor_bottom = 0.247368
 
 [node name="MapTile251" parent="." instance=ExtResource( 1 )]
-margin_left = 1060.0
-margin_top = 156.0
-margin_right = 1060.0
-margin_bottom = 156.0
+anchor_left = 0.695538
+anchor_top = 0.205263
+anchor_right = 0.695538
+anchor_bottom = 0.205263
 
 [node name="MapTile252" parent="." instance=ExtResource( 1 )]
-margin_left = 1060.0
-margin_top = 220.0
-margin_right = 1060.0
-margin_bottom = 220.0
+anchor_left = 0.695538
+anchor_top = 0.289474
+anchor_right = 0.695538
+anchor_bottom = 0.289474
 
 [node name="MapTile253" parent="." instance=ExtResource( 1 )]
-margin_left = 1060.0
-margin_top = 252.0
-margin_right = 1060.0
-margin_bottom = 252.0
+anchor_left = 0.695538
+anchor_top = 0.331579
+anchor_right = 0.695538
+anchor_bottom = 0.331579
 
 [node name="MapTile254" parent="." instance=ExtResource( 1 )]
-margin_left = 1060.0
-margin_top = 284.0
-margin_right = 1060.0
-margin_bottom = 284.0
+anchor_left = 0.695538
+anchor_top = 0.373684
+anchor_right = 0.695538
+anchor_bottom = 0.373684
 
 [node name="MapTile255" parent="." instance=ExtResource( 1 )]
-margin_left = 1060.0
-margin_top = 316.0
-margin_right = 1060.0
-margin_bottom = 316.0
+anchor_left = 0.695538
+anchor_top = 0.415789
+anchor_right = 0.695538
+anchor_bottom = 0.415789
 
 [node name="MapTile256" parent="." instance=ExtResource( 1 )]
-margin_left = 1060.0
-margin_top = 348.0
-margin_right = 1060.0
-margin_bottom = 348.0
+anchor_left = 0.695538
+anchor_top = 0.457895
+anchor_right = 0.695538
+anchor_bottom = 0.457895
 
 [node name="MapTile257" parent="." instance=ExtResource( 1 )]
-margin_left = 1060.0
-margin_top = 380.0
-margin_right = 1060.0
-margin_bottom = 380.0
+anchor_left = 0.695538
+anchor_top = 0.5
+anchor_right = 0.695538
+anchor_bottom = 0.5
 
 [node name="MapTile258" parent="." instance=ExtResource( 1 )]
-margin_left = 1092.0
-margin_top = 188.0
-margin_right = 1092.0
-margin_bottom = 188.0
+anchor_left = 0.716535
+anchor_top = 0.247368
+anchor_right = 0.716535
+anchor_bottom = 0.247368
 
 [node name="MapTile259" parent="." instance=ExtResource( 1 )]
-margin_left = 1092.0
-margin_top = 156.0
-margin_right = 1092.0
-margin_bottom = 156.0
+anchor_left = 0.716535
+anchor_top = 0.205263
+anchor_right = 0.716535
+anchor_bottom = 0.205263
 
 [node name="MapTile260" parent="." instance=ExtResource( 1 )]
-margin_left = 1092.0
-margin_top = 220.0
-margin_right = 1092.0
-margin_bottom = 220.0
+anchor_left = 0.716535
+anchor_top = 0.289474
+anchor_right = 0.716535
+anchor_bottom = 0.289474
 
 [node name="MapTile261" parent="." instance=ExtResource( 1 )]
-margin_left = 1092.0
-margin_top = 252.0
-margin_right = 1092.0
-margin_bottom = 252.0
+anchor_left = 0.716535
+anchor_top = 0.331579
+anchor_right = 0.716535
+anchor_bottom = 0.331579
 
 [node name="MapTile262" parent="." instance=ExtResource( 1 )]
-margin_left = 1092.0
-margin_top = 284.0
-margin_right = 1092.0
-margin_bottom = 284.0
+anchor_left = 0.716535
+anchor_top = 0.373684
+anchor_right = 0.716535
+anchor_bottom = 0.373684
 
 [node name="MapTile263" parent="." instance=ExtResource( 1 )]
-margin_left = 1092.0
-margin_top = 316.0
-margin_right = 1092.0
-margin_bottom = 316.0
+anchor_left = 0.716535
+anchor_top = 0.415789
+anchor_right = 0.716535
+anchor_bottom = 0.415789
 
 [node name="MapTile264" parent="." instance=ExtResource( 1 )]
-margin_left = 1092.0
-margin_top = 348.0
-margin_right = 1092.0
-margin_bottom = 348.0
+anchor_left = 0.716535
+anchor_top = 0.457895
+anchor_right = 0.716535
+anchor_bottom = 0.457895
 
 [node name="MapTile265" parent="." instance=ExtResource( 1 )]
-margin_left = 1092.0
-margin_top = 380.0
-margin_right = 1092.0
-margin_bottom = 380.0
+anchor_left = 0.716535
+anchor_top = 0.5
+anchor_right = 0.716535
+anchor_bottom = 0.5
 
 [node name="MapTile266" parent="." instance=ExtResource( 1 )]
-margin_left = 1124.0
-margin_top = 188.0
-margin_right = 1124.0
-margin_bottom = 188.0
+anchor_left = 0.737533
+anchor_top = 0.247368
+anchor_right = 0.737533
+anchor_bottom = 0.247368
 
 [node name="MapTile267" parent="." instance=ExtResource( 1 )]
-margin_left = 1124.0
-margin_top = 156.0
-margin_right = 1124.0
-margin_bottom = 156.0
+anchor_left = 0.737533
+anchor_top = 0.205263
+anchor_right = 0.737533
+anchor_bottom = 0.205263
 
 [node name="MapTile268" parent="." instance=ExtResource( 1 )]
-margin_left = 1124.0
-margin_top = 220.0
-margin_right = 1124.0
-margin_bottom = 220.0
+anchor_left = 0.737533
+anchor_top = 0.289474
+anchor_right = 0.737533
+anchor_bottom = 0.289474
 
 [node name="MapTile269" parent="." instance=ExtResource( 1 )]
-margin_left = 1124.0
-margin_top = 252.0
-margin_right = 1124.0
-margin_bottom = 252.0
+anchor_left = 0.737533
+anchor_top = 0.331579
+anchor_right = 0.737533
+anchor_bottom = 0.331579
 
 [node name="MapTile270" parent="." instance=ExtResource( 1 )]
-margin_left = 1124.0
-margin_top = 284.0
-margin_right = 1124.0
-margin_bottom = 284.0
+anchor_left = 0.737533
+anchor_top = 0.373684
+anchor_right = 0.737533
+anchor_bottom = 0.373684
 
 [node name="MapTile271" parent="." instance=ExtResource( 1 )]
-margin_left = 1124.0
-margin_top = 316.0
-margin_right = 1124.0
-margin_bottom = 316.0
+anchor_left = 0.737533
+anchor_top = 0.415789
+anchor_right = 0.737533
+anchor_bottom = 0.415789
 
 [node name="MapTile272" parent="." instance=ExtResource( 1 )]
-margin_left = 1124.0
-margin_top = 348.0
-margin_right = 1124.0
-margin_bottom = 348.0
+anchor_left = 0.737533
+anchor_top = 0.457895
+anchor_right = 0.737533
+anchor_bottom = 0.457895
 
 [node name="MapTile273" parent="." instance=ExtResource( 1 )]
-margin_left = 1124.0
-margin_top = 380.0
-margin_right = 1124.0
-margin_bottom = 380.0
+anchor_left = 0.737533
+anchor_top = 0.5
+anchor_right = 0.737533
+anchor_bottom = 0.5
 
 [node name="MapTile274" parent="." instance=ExtResource( 1 )]
-margin_left = 1156.0
-margin_top = 188.0
-margin_right = 1156.0
-margin_bottom = 188.0
+anchor_left = 0.75853
+anchor_top = 0.247368
+anchor_right = 0.75853
+anchor_bottom = 0.247368
 
 [node name="MapTile275" parent="." instance=ExtResource( 1 )]
-margin_left = 1156.0
-margin_top = 156.0
-margin_right = 1156.0
-margin_bottom = 156.0
+anchor_left = 0.75853
+anchor_top = 0.205263
+anchor_right = 0.75853
+anchor_bottom = 0.205263
 
 [node name="MapTile276" parent="." instance=ExtResource( 1 )]
-margin_left = 1156.0
-margin_top = 220.0
-margin_right = 1156.0
-margin_bottom = 220.0
+anchor_left = 0.75853
+anchor_top = 0.289474
+anchor_right = 0.75853
+anchor_bottom = 0.289474
 
 [node name="MapTile277" parent="." instance=ExtResource( 1 )]
-margin_left = 1156.0
-margin_top = 252.0
-margin_right = 1156.0
-margin_bottom = 252.0
+anchor_left = 0.75853
+anchor_top = 0.331579
+anchor_right = 0.75853
+anchor_bottom = 0.331579
 
 [node name="MapTile278" parent="." instance=ExtResource( 1 )]
-margin_left = 1156.0
-margin_top = 284.0
-margin_right = 1156.0
-margin_bottom = 284.0
+anchor_left = 0.75853
+anchor_top = 0.373684
+anchor_right = 0.75853
+anchor_bottom = 0.373684
 
 [node name="MapTile279" parent="." instance=ExtResource( 1 )]
-margin_left = 1156.0
-margin_top = 316.0
-margin_right = 1156.0
-margin_bottom = 316.0
+anchor_left = 0.75853
+anchor_top = 0.415789
+anchor_right = 0.75853
+anchor_bottom = 0.415789
 
 [node name="MapTile280" parent="." instance=ExtResource( 1 )]
-margin_left = 1156.0
-margin_top = 348.0
-margin_right = 1156.0
-margin_bottom = 348.0
+anchor_left = 0.75853
+anchor_top = 0.457895
+anchor_right = 0.75853
+anchor_bottom = 0.457895
 
 [node name="MapTile281" parent="." instance=ExtResource( 1 )]
-margin_left = 1156.0
-margin_top = 380.0
-margin_right = 1156.0
-margin_bottom = 380.0
+anchor_left = 0.75853
+anchor_top = 0.5
+anchor_right = 0.75853
+anchor_bottom = 0.5
 
 [node name="MapTile282" parent="." instance=ExtResource( 1 )]
-margin_left = 1188.0
-margin_top = 188.0
-margin_right = 1188.0
-margin_bottom = 188.0
+anchor_left = 0.779528
+anchor_top = 0.247368
+anchor_right = 0.779528
+anchor_bottom = 0.247368
 
 [node name="MapTile283" parent="." instance=ExtResource( 1 )]
-margin_left = 1188.0
-margin_top = 156.0
-margin_right = 1188.0
-margin_bottom = 156.0
+anchor_left = 0.779528
+anchor_top = 0.205263
+anchor_right = 0.779528
+anchor_bottom = 0.205263
 
 [node name="MapTile284" parent="." instance=ExtResource( 1 )]
-margin_left = 1188.0
-margin_top = 220.0
-margin_right = 1188.0
-margin_bottom = 220.0
+anchor_left = 0.779528
+anchor_top = 0.289474
+anchor_right = 0.779528
+anchor_bottom = 0.289474
 
 [node name="MapTile285" parent="." instance=ExtResource( 1 )]
-margin_left = 1188.0
-margin_top = 252.0
-margin_right = 1188.0
-margin_bottom = 252.0
+anchor_left = 0.779528
+anchor_top = 0.331579
+anchor_right = 0.779528
+anchor_bottom = 0.331579
 
 [node name="MapTile286" parent="." instance=ExtResource( 1 )]
-margin_left = 1188.0
-margin_top = 284.0
-margin_right = 1188.0
-margin_bottom = 284.0
+anchor_left = 0.779528
+anchor_top = 0.373684
+anchor_right = 0.779528
+anchor_bottom = 0.373684
 
 [node name="MapTile287" parent="." instance=ExtResource( 1 )]
-margin_left = 1188.0
-margin_top = 316.0
-margin_right = 1188.0
-margin_bottom = 316.0
+anchor_left = 0.779528
+anchor_top = 0.415789
+anchor_right = 0.779528
+anchor_bottom = 0.415789
 
 [node name="MapTile288" parent="." instance=ExtResource( 1 )]
-margin_left = 1188.0
-margin_top = 348.0
-margin_right = 1188.0
-margin_bottom = 348.0
+anchor_left = 0.779528
+anchor_top = 0.457895
+anchor_right = 0.779528
+anchor_bottom = 0.457895
 
 [node name="MapTile289" parent="." instance=ExtResource( 1 )]
-margin_left = 1188.0
-margin_top = 380.0
-margin_right = 1188.0
-margin_bottom = 380.0
+anchor_left = 0.779528
+anchor_top = 0.5
+anchor_right = 0.779528
+anchor_bottom = 0.5
 
 [node name="MapTile327" parent="." instance=ExtResource( 1 )]
-margin_left = 1028.0
-margin_top = 412.0
-margin_right = 1028.0
-margin_bottom = 412.0
+anchor_left = 0.674541
+anchor_top = 0.542105
+anchor_right = 0.674541
+anchor_bottom = 0.542105
 
 [node name="MapTile328" parent="." instance=ExtResource( 1 )]
-margin_left = 1060.0
-margin_top = 412.0
-margin_right = 1060.0
-margin_bottom = 412.0
+anchor_left = 0.695538
+anchor_top = 0.542105
+anchor_right = 0.695538
+anchor_bottom = 0.542105
 
 [node name="MapTile329" parent="." instance=ExtResource( 1 )]
-margin_left = 1092.0
-margin_top = 412.0
-margin_right = 1092.0
-margin_bottom = 412.0
+anchor_left = 0.716535
+anchor_top = 0.542105
+anchor_right = 0.716535
+anchor_bottom = 0.542105
 
 [node name="MapTile330" parent="." instance=ExtResource( 1 )]
-margin_left = 1124.0
-margin_top = 412.0
-margin_right = 1124.0
-margin_bottom = 412.0
+anchor_left = 0.737533
+anchor_top = 0.542105
+anchor_right = 0.737533
+anchor_bottom = 0.542105
 
 [node name="MapTile331" parent="." instance=ExtResource( 1 )]
-margin_left = 1156.0
-margin_top = 412.0
-margin_right = 1156.0
-margin_bottom = 412.0
+anchor_left = 0.75853
+anchor_top = 0.542105
+anchor_right = 0.75853
+anchor_bottom = 0.542105
 
 [node name="MapTile332" parent="." instance=ExtResource( 1 )]
-margin_left = 1188.0
-margin_top = 412.0
-margin_right = 1188.0
-margin_bottom = 412.0
+anchor_left = 0.779528
+anchor_top = 0.542105
+anchor_right = 0.779528
+anchor_bottom = 0.542105
 
 [node name="MapTile290" parent="." instance=ExtResource( 1 )]
-margin_left = 1220.0
-margin_top = 188.0
-margin_right = 1220.0
-margin_bottom = 188.0
+anchor_left = 0.800525
+anchor_top = 0.247368
+anchor_right = 0.800525
+anchor_bottom = 0.247368
 
 [node name="MapTile291" parent="." instance=ExtResource( 1 )]
-margin_left = 1220.0
-margin_top = 156.0
-margin_right = 1220.0
-margin_bottom = 156.0
+anchor_left = 0.800525
+anchor_top = 0.205263
+anchor_right = 0.800525
+anchor_bottom = 0.205263
 
 [node name="MapTile308" parent="." instance=ExtResource( 1 )]
-margin_left = 1092.0
-margin_top = 124.0
-margin_right = 1092.0
-margin_bottom = 124.0
+anchor_left = 0.716535
+anchor_top = 0.163158
+anchor_right = 0.716535
+anchor_bottom = 0.163158
 
 [node name="MapTile309" parent="." instance=ExtResource( 1 )]
-margin_left = 1124.0
-margin_top = 124.0
-margin_right = 1124.0
-margin_bottom = 124.0
+anchor_left = 0.737533
+anchor_top = 0.163158
+anchor_right = 0.737533
+anchor_bottom = 0.163158
 
 [node name="MapTile310" parent="." instance=ExtResource( 1 )]
-margin_left = 1156.0
-margin_top = 124.0
-margin_right = 1156.0
-margin_bottom = 124.0
+anchor_left = 0.75853
+anchor_top = 0.163158
+anchor_right = 0.75853
+anchor_bottom = 0.163158
 
 [node name="MapTile311" parent="." instance=ExtResource( 1 )]
-margin_left = 1188.0
-margin_top = 124.0
-margin_right = 1188.0
-margin_bottom = 124.0
+anchor_left = 0.779528
+anchor_top = 0.163158
+anchor_right = 0.779528
+anchor_bottom = 0.163158
 
 [node name="MapTile312" parent="." instance=ExtResource( 1 )]
-margin_left = 1220.0
-margin_top = 124.0
-margin_right = 1220.0
-margin_bottom = 124.0
+anchor_left = 0.800525
+anchor_top = 0.163158
+anchor_right = 0.800525
+anchor_bottom = 0.163158
 
 [node name="MapTile302" parent="." instance=ExtResource( 1 )]
-margin_left = 1092.0
-margin_top = 92.0
-margin_right = 1092.0
-margin_bottom = 92.0
+anchor_left = 0.716535
+anchor_top = 0.121053
+anchor_right = 0.716535
+anchor_bottom = 0.121053
 
 [node name="MapTile303" parent="." instance=ExtResource( 1 )]
-margin_left = 1124.0
-margin_top = 92.0
-margin_right = 1124.0
-margin_bottom = 92.0
+anchor_left = 0.737533
+anchor_top = 0.121053
+anchor_right = 0.737533
+anchor_bottom = 0.121053
 
 [node name="MapTile304" parent="." instance=ExtResource( 1 )]
-margin_left = 1156.0
-margin_top = 92.0
-margin_right = 1156.0
-margin_bottom = 92.0
+anchor_left = 0.75853
+anchor_top = 0.121053
+anchor_right = 0.75853
+anchor_bottom = 0.121053
 
 [node name="MapTile305" parent="." instance=ExtResource( 1 )]
-margin_left = 1188.0
-margin_top = 92.0
-margin_right = 1188.0
-margin_bottom = 92.0
+anchor_left = 0.779528
+anchor_top = 0.121053
+anchor_right = 0.779528
+anchor_bottom = 0.121053
 
 [node name="MapTile313" parent="." instance=ExtResource( 1 )]
-margin_left = 1156.0
-margin_top = 60.0
-margin_right = 1156.0
-margin_bottom = 60.0
+anchor_left = 0.75853
+anchor_top = 0.0789474
+anchor_right = 0.75853
+anchor_bottom = 0.0789474
+margin_top = 3.8147e-06
+margin_bottom = 3.8147e-06
 
 [node name="MapTile315" parent="." instance=ExtResource( 1 )]
-margin_left = 1124.0
-margin_top = 28.0
-margin_right = 1124.0
-margin_bottom = 28.0
+anchor_left = 0.737533
+anchor_top = 0.0368421
+anchor_right = 0.737533
+anchor_bottom = 0.0368421
 
 [node name="MapTile314" parent="." instance=ExtResource( 1 )]
-margin_left = 1188.0
-margin_top = 60.0
-margin_right = 1188.0
-margin_bottom = 60.0
+anchor_left = 0.779528
+anchor_top = 0.0789474
+anchor_right = 0.779528
+anchor_bottom = 0.0789474
+margin_top = 3.8147e-06
+margin_bottom = 3.8147e-06
 
 [node name="MapTile306" parent="." instance=ExtResource( 1 )]
-margin_left = 1220.0
-margin_top = 92.0
-margin_right = 1220.0
-margin_bottom = 92.0
+anchor_left = 0.800525
+anchor_top = 0.121053
+anchor_right = 0.800525
+anchor_bottom = 0.121053
 
 [node name="MapTile307" parent="." instance=ExtResource( 1 )]
-margin_left = 1252.0
-margin_top = 92.0
-margin_right = 1252.0
-margin_bottom = 92.0
+anchor_left = 0.821522
+anchor_top = 0.121053
+anchor_right = 0.821522
+anchor_bottom = 0.121053
 
 [node name="MapTile292" parent="." instance=ExtResource( 1 )]
-margin_left = 1220.0
-margin_top = 220.0
-margin_right = 1220.0
-margin_bottom = 220.0
+anchor_left = 0.800525
+anchor_top = 0.289474
+anchor_right = 0.800525
+anchor_bottom = 0.289474
 
 [node name="MapTile293" parent="." instance=ExtResource( 1 )]
-margin_left = 1220.0
-margin_top = 252.0
-margin_right = 1220.0
-margin_bottom = 252.0
+anchor_left = 0.800525
+anchor_top = 0.331579
+anchor_right = 0.800525
+anchor_bottom = 0.331579
 
 [node name="MapTile294" parent="." instance=ExtResource( 1 )]
-margin_left = 1220.0
-margin_top = 284.0
-margin_right = 1220.0
-margin_bottom = 284.0
+anchor_left = 0.800525
+anchor_top = 0.373684
+anchor_right = 0.800525
+anchor_bottom = 0.373684
 
 [node name="MapTile295" parent="." instance=ExtResource( 1 )]
-margin_left = 1220.0
-margin_top = 316.0
-margin_right = 1220.0
-margin_bottom = 316.0
+anchor_left = 0.800525
+anchor_top = 0.415789
+anchor_right = 0.800525
+anchor_bottom = 0.415789
 
 [node name="MapTile326" parent="." instance=ExtResource( 1 )]
-margin_left = 1252.0
-margin_top = 316.0
-margin_right = 1252.0
-margin_bottom = 316.0
+anchor_left = 0.821522
+anchor_top = 0.415789
+anchor_right = 0.821522
+anchor_bottom = 0.415789
 
 [node name="MapTile336" parent="." instance=ExtResource( 1 )]
-margin_left = 1252.0
-margin_top = 284.0
-margin_right = 1252.0
-margin_bottom = 284.0
+anchor_left = 0.821522
+anchor_top = 0.373684
+anchor_right = 0.821522
+anchor_bottom = 0.373684
 
 [node name="MapTile337" parent="." instance=ExtResource( 1 )]
-margin_left = 1284.0
-margin_top = 284.0
-margin_right = 1284.0
-margin_bottom = 284.0
+anchor_left = 0.84252
+anchor_top = 0.373684
+anchor_right = 0.84252
+anchor_bottom = 0.373684
 
 [node name="MapTile338" parent="." instance=ExtResource( 1 )]
-margin_left = 1316.0
-margin_top = 252.0
-margin_right = 1316.0
-margin_bottom = 252.0
+anchor_left = 0.863517
+anchor_top = 0.331579
+anchor_right = 0.863517
+anchor_bottom = 0.331579
 
 [node name="MapTile339" parent="." instance=ExtResource( 1 )]
-margin_left = 1348.0
-margin_top = 220.0
-margin_right = 1348.0
-margin_bottom = 220.0
+anchor_left = 0.884514
+anchor_top = 0.289474
+anchor_right = 0.884514
+anchor_bottom = 0.289474
 
 [node name="MapTile340" parent="." instance=ExtResource( 1 )]
-margin_left = 1380.0
-margin_top = 188.0
-margin_right = 1380.0
-margin_bottom = 188.0
+anchor_left = 0.905512
+anchor_top = 0.247368
+anchor_right = 0.905512
+anchor_bottom = 0.247368
 
 [node name="MapTile341" parent="." instance=ExtResource( 1 )]
-margin_left = 1412.0
-margin_top = 188.0
-margin_right = 1412.0
-margin_bottom = 188.0
+anchor_left = 0.926509
+anchor_top = 0.247368
+anchor_right = 0.926509
+anchor_bottom = 0.247368
 
 [node name="MapTile344" parent="." instance=ExtResource( 1 )]
-margin_left = 1444.0
-margin_top = 188.0
-margin_right = 1444.0
-margin_bottom = 188.0
+anchor_left = 0.947507
+anchor_top = 0.247368
+anchor_right = 0.947507
+anchor_bottom = 0.247368
 
 [node name="MapTile347" parent="." instance=ExtResource( 1 )]
-margin_left = 1380.0
-margin_top = 156.0
-margin_right = 1380.0
-margin_bottom = 156.0
+anchor_left = 0.905512
+anchor_top = 0.205263
+anchor_right = 0.905512
+anchor_bottom = 0.205263
 
 [node name="MapTile350" parent="." instance=ExtResource( 1 )]
-margin_left = 1380.0
-margin_top = 124.0
-margin_right = 1380.0
-margin_bottom = 124.0
+anchor_left = 0.905512
+anchor_top = 0.163158
+anchor_right = 0.905512
+anchor_bottom = 0.163158
 
 [node name="MapTile351" parent="." instance=ExtResource( 1 )]
-margin_left = 1348.0
-margin_top = 124.0
-margin_right = 1348.0
-margin_bottom = 124.0
+anchor_left = 0.884514
+anchor_top = 0.163158
+anchor_right = 0.884514
+anchor_bottom = 0.163158
 
 [node name="MapTile352" parent="." instance=ExtResource( 1 )]
-margin_left = 1316.0
-margin_top = 124.0
-margin_right = 1316.0
-margin_bottom = 124.0
+anchor_left = 0.863517
+anchor_top = 0.163158
+anchor_right = 0.863517
+anchor_bottom = 0.163158
 
 [node name="MapTile353" parent="." instance=ExtResource( 1 )]
-margin_left = 1284.0
-margin_top = 124.0
-margin_right = 1284.0
-margin_bottom = 124.0
+anchor_left = 0.84252
+anchor_top = 0.163158
+anchor_right = 0.84252
+anchor_bottom = 0.163158
 
 [node name="MapTile354" parent="." instance=ExtResource( 1 )]
-margin_left = 1252.0
-margin_top = 124.0
-margin_right = 1252.0
-margin_bottom = 124.0
+anchor_left = 0.821522
+anchor_top = 0.163158
+anchor_right = 0.821522
+anchor_bottom = 0.163158
 
 [node name="MapTile355" parent="." instance=ExtResource( 1 )]
-margin_left = 1348.0
-margin_top = 156.0
-margin_right = 1348.0
-margin_bottom = 156.0
+anchor_left = 0.884514
+anchor_top = 0.205263
+anchor_right = 0.884514
+anchor_bottom = 0.205263
 
 [node name="MapTile356" parent="." instance=ExtResource( 1 )]
-margin_left = 1316.0
-margin_top = 156.0
-margin_right = 1316.0
-margin_bottom = 156.0
+anchor_left = 0.863517
+anchor_top = 0.205263
+anchor_right = 0.863517
+anchor_bottom = 0.205263
 
 [node name="MapTile357" parent="." instance=ExtResource( 1 )]
-margin_left = 1284.0
-margin_top = 156.0
-margin_right = 1284.0
-margin_bottom = 156.0
+anchor_left = 0.84252
+anchor_top = 0.205263
+anchor_right = 0.84252
+anchor_bottom = 0.205263
 
 [node name="MapTile358" parent="." instance=ExtResource( 1 )]
-margin_left = 1252.0
-margin_top = 156.0
-margin_right = 1252.0
-margin_bottom = 156.0
+anchor_left = 0.821522
+anchor_top = 0.205263
+anchor_right = 0.821522
+anchor_bottom = 0.205263
 
 [node name="MapTile359" parent="." instance=ExtResource( 1 )]
-margin_left = 1348.0
-margin_top = 188.0
-margin_right = 1348.0
-margin_bottom = 188.0
+anchor_left = 0.884514
+anchor_top = 0.247368
+anchor_right = 0.884514
+anchor_bottom = 0.247368
 
 [node name="MapTile360" parent="." instance=ExtResource( 1 )]
-margin_left = 1316.0
-margin_top = 188.0
-margin_right = 1316.0
-margin_bottom = 188.0
+anchor_left = 0.863517
+anchor_top = 0.247368
+anchor_right = 0.863517
+anchor_bottom = 0.247368
 
 [node name="MapTile361" parent="." instance=ExtResource( 1 )]
-margin_left = 1284.0
-margin_top = 188.0
-margin_right = 1284.0
-margin_bottom = 188.0
+anchor_left = 0.84252
+anchor_top = 0.247368
+anchor_right = 0.84252
+anchor_bottom = 0.247368
 
 [node name="MapTile362" parent="." instance=ExtResource( 1 )]
-margin_left = 1252.0
-margin_top = 188.0
-margin_right = 1252.0
-margin_bottom = 188.0
+anchor_left = 0.821522
+anchor_top = 0.247368
+anchor_right = 0.821522
+anchor_bottom = 0.247368
 
 [node name="MapTile363" parent="." instance=ExtResource( 1 )]
-margin_left = 1316.0
-margin_top = 220.0
-margin_right = 1316.0
-margin_bottom = 220.0
+anchor_left = 0.863517
+anchor_top = 0.289474
+anchor_right = 0.863517
+anchor_bottom = 0.289474
 
 [node name="MapTile364" parent="." instance=ExtResource( 1 )]
-margin_left = 1284.0
-margin_top = 220.0
-margin_right = 1284.0
-margin_bottom = 220.0
+anchor_left = 0.84252
+anchor_top = 0.289474
+anchor_right = 0.84252
+anchor_bottom = 0.289474
 
 [node name="MapTile365" parent="." instance=ExtResource( 1 )]
-margin_left = 1252.0
-margin_top = 220.0
-margin_right = 1252.0
-margin_bottom = 220.0
+anchor_left = 0.821522
+anchor_top = 0.289474
+anchor_right = 0.821522
+anchor_bottom = 0.289474
 
 [node name="MapTile366" parent="." instance=ExtResource( 1 )]
-margin_left = 1284.0
-margin_top = 252.0
-margin_right = 1284.0
-margin_bottom = 252.0
+anchor_left = 0.84252
+anchor_top = 0.331579
+anchor_right = 0.84252
+anchor_bottom = 0.331579
 
 [node name="MapTile367" parent="." instance=ExtResource( 1 )]
-margin_left = 1252.0
-margin_top = 252.0
-margin_right = 1252.0
-margin_bottom = 252.0
+anchor_left = 0.821522
+anchor_top = 0.331579
+anchor_right = 0.821522
+anchor_bottom = 0.331579
 
 [node name="MapTile348" parent="." instance=ExtResource( 1 )]
-margin_left = 1412.0
-margin_top = 156.0
-margin_right = 1412.0
-margin_bottom = 156.0
+anchor_left = 0.926509
+anchor_top = 0.205263
+anchor_right = 0.926509
+anchor_bottom = 0.205263
 
 [node name="MapTile349" parent="." instance=ExtResource( 1 )]
-margin_left = 1444.0
-margin_top = 156.0
-margin_right = 1444.0
-margin_bottom = 156.0
+anchor_left = 0.947507
+anchor_top = 0.205263
+anchor_right = 0.947507
+anchor_bottom = 0.205263
 
 [node name="MapTile345" parent="." instance=ExtResource( 1 )]
-margin_left = 1476.0
-margin_top = 188.0
-margin_right = 1476.0
-margin_bottom = 188.0
+anchor_left = 0.968504
+anchor_top = 0.247368
+anchor_right = 0.968504
+anchor_bottom = 0.247368
 
 [node name="MapTile342" parent="." instance=ExtResource( 1 )]
-margin_left = 1412.0
-margin_top = 220.0
-margin_right = 1412.0
-margin_bottom = 220.0
+anchor_left = 0.926509
+anchor_top = 0.289474
+anchor_right = 0.926509
+anchor_bottom = 0.289474
 
 [node name="MapTile343" parent="." instance=ExtResource( 1 )]
-margin_left = 1412.0
-margin_top = 252.0
-margin_right = 1412.0
-margin_bottom = 252.0
+anchor_left = 0.926509
+anchor_top = 0.331579
+anchor_right = 0.926509
+anchor_bottom = 0.331579
 
 [node name="MapTile346" parent="." instance=ExtResource( 1 )]
-margin_left = 1380.0
-margin_top = 284.0
-margin_right = 1380.0
-margin_bottom = 284.0
+anchor_left = 0.905512
+anchor_top = 0.373684
+anchor_right = 0.905512
+anchor_bottom = 0.373684
 
 [node name="MapTile296" parent="." instance=ExtResource( 1 )]
-margin_left = 1220.0
-margin_top = 348.0
-margin_right = 1220.0
-margin_bottom = 348.0
+anchor_left = 0.800525
+anchor_top = 0.457895
+anchor_right = 0.800525
+anchor_bottom = 0.457895
 
 [node name="MapTile297" parent="." instance=ExtResource( 1 )]
-margin_left = 1220.0
-margin_top = 380.0
-margin_right = 1220.0
-margin_bottom = 380.0
+anchor_left = 0.800525
+anchor_top = 0.5
+anchor_right = 0.800525
+anchor_bottom = 0.5
 
 [node name="MapTile334" parent="." instance=ExtResource( 1 )]
-margin_left = 1284.0
-margin_top = 380.0
-margin_right = 1284.0
-margin_bottom = 380.0
+anchor_left = 0.84252
+anchor_top = 0.5
+anchor_right = 0.84252
+anchor_bottom = 0.5
 
 [node name="MapTile335" parent="." instance=ExtResource( 1 )]
-margin_left = 1316.0
-margin_top = 348.0
-margin_right = 1316.0
-margin_bottom = 348.0
+anchor_left = 0.863517
+anchor_top = 0.457895
+anchor_right = 0.863517
+anchor_bottom = 0.457895
 
 [node name="MapTile214" parent="." instance=ExtResource( 1 )]
-margin_left = 900.0
-margin_top = 380.0
-margin_right = 900.0
-margin_bottom = 380.0
+anchor_left = 0.590551
+anchor_top = 0.5
+anchor_right = 0.590551
+anchor_bottom = 0.5
 
 [node name="MapTile215" parent="." instance=ExtResource( 1 )]
-margin_left = 868.0
-margin_top = 348.0
-margin_right = 868.0
-margin_bottom = 348.0
+anchor_left = 0.569554
+anchor_top = 0.457895
+anchor_right = 0.569554
+anchor_bottom = 0.457895
 
 [node name="MapTile216" parent="." instance=ExtResource( 1 )]
-margin_left = 868.0
-margin_top = 380.0
-margin_right = 868.0
-margin_bottom = 380.0
+anchor_left = 0.569554
+anchor_top = 0.5
+anchor_right = 0.569554
+anchor_bottom = 0.5
 
 [node name="MapTile217" parent="." instance=ExtResource( 1 )]
-margin_left = 932.0
-margin_top = 412.0
-margin_right = 932.0
-margin_bottom = 412.0
+anchor_left = 0.611549
+anchor_top = 0.542105
+anchor_right = 0.611549
+anchor_bottom = 0.542105
 
 [node name="MapTile218" parent="." instance=ExtResource( 1 )]
-margin_left = 900.0
-margin_top = 412.0
-margin_right = 900.0
-margin_bottom = 412.0
+anchor_left = 0.590551
+anchor_top = 0.542105
+anchor_right = 0.590551
+anchor_bottom = 0.542105
 
 [node name="MapTile118" parent="." instance=ExtResource( 1 )]
-margin_left = 452.0
-margin_top = 60.0
-margin_right = 452.0
-margin_bottom = 60.0
+anchor_left = 0.296588
+anchor_top = 0.0789474
+anchor_right = 0.296588
+anchor_bottom = 0.0789474
+margin_left = 3.05176e-05
+margin_top = 3.8147e-06
+margin_right = 3.05176e-05
+margin_bottom = 3.8147e-06
 
 [node name="MapTile38" parent="." instance=ExtResource( 1 )]
-margin_left = 388.0
-margin_top = 124.0
-margin_right = 388.0
-margin_bottom = 124.0
+anchor_left = 0.254593
+anchor_top = 0.163158
+anchor_right = 0.254593
+anchor_bottom = 0.163158
+margin_left = 3.05176e-05
+margin_right = 3.05176e-05
 
 [node name="MapTile39" parent="." instance=ExtResource( 1 )]
-margin_left = 388.0
-margin_top = 156.0
-margin_right = 388.0
-margin_bottom = 156.0
+anchor_left = 0.254593
+anchor_top = 0.205263
+anchor_right = 0.254593
+anchor_bottom = 0.205263
+margin_left = 3.05176e-05
+margin_right = 3.05176e-05
 
 [node name="MapTile40" parent="." instance=ExtResource( 1 )]
-margin_left = 420.0
-margin_top = 156.0
-margin_right = 420.0
-margin_bottom = 156.0
+anchor_left = 0.275591
+anchor_top = 0.205263
+anchor_right = 0.275591
+anchor_bottom = 0.205263
+margin_left = 3.05176e-05
+margin_right = 3.05176e-05
 
 [node name="MapTile41" parent="." instance=ExtResource( 1 )]
-margin_left = 388.0
-margin_top = 220.0
-margin_right = 388.0
-margin_bottom = 220.0
+anchor_left = 0.254593
+anchor_top = 0.289474
+anchor_right = 0.254593
+anchor_bottom = 0.289474
+margin_left = 3.05176e-05
+margin_right = 3.05176e-05
 
 [node name="MapTile42" parent="." instance=ExtResource( 1 )]
-margin_left = 420.0
-margin_top = 220.0
-margin_right = 420.0
-margin_bottom = 220.0
+anchor_left = 0.275591
+anchor_top = 0.289474
+anchor_right = 0.275591
+anchor_bottom = 0.289474
+margin_left = 3.05176e-05
+margin_right = 3.05176e-05
 
 [node name="MapTile43" parent="." instance=ExtResource( 1 )]
-margin_left = 388.0
-margin_top = 252.0
-margin_right = 388.0
-margin_bottom = 252.0
+anchor_left = 0.254593
+anchor_top = 0.331579
+anchor_right = 0.254593
+anchor_bottom = 0.331579
+margin_left = 3.05176e-05
+margin_right = 3.05176e-05
 
 [node name="MapTile44" parent="." instance=ExtResource( 1 )]
-margin_left = 420.0
-margin_top = 252.0
-margin_right = 420.0
-margin_bottom = 252.0
+anchor_left = 0.275591
+anchor_top = 0.331579
+anchor_right = 0.275591
+anchor_bottom = 0.331579
+margin_left = 3.05176e-05
+margin_right = 3.05176e-05
 
 [node name="MapTile47" parent="." instance=ExtResource( 1 )]
-margin_left = 452.0
-margin_top = 252.0
-margin_right = 452.0
-margin_bottom = 252.0
+anchor_left = 0.296588
+anchor_top = 0.331579
+anchor_right = 0.296588
+anchor_bottom = 0.331579
+margin_left = 3.05176e-05
+margin_right = 3.05176e-05
 
 [node name="MapTile45" parent="." instance=ExtResource( 1 )]
-margin_left = 388.0
-margin_top = 284.0
-margin_right = 388.0
-margin_bottom = 284.0
+anchor_left = 0.254593
+anchor_top = 0.373684
+anchor_right = 0.254593
+anchor_bottom = 0.373684
+margin_left = 3.05176e-05
+margin_right = 3.05176e-05
 
 [node name="MapTile48" parent="." instance=ExtResource( 1 )]
-margin_left = 388.0
-margin_top = 316.0
-margin_right = 388.0
-margin_bottom = 316.0
+anchor_left = 0.254593
+anchor_top = 0.415789
+anchor_right = 0.254593
+anchor_bottom = 0.415789
+margin_left = 3.05176e-05
+margin_right = 3.05176e-05
 
 [node name="MapTile64" parent="." instance=ExtResource( 1 )]
-margin_left = 388.0
-margin_top = 348.0
-margin_right = 388.0
-margin_bottom = 348.0
+anchor_left = 0.254593
+anchor_top = 0.457895
+anchor_right = 0.254593
+anchor_bottom = 0.457895
+margin_left = 3.05176e-05
+margin_right = 3.05176e-05
 
 [node name="MapTile49" parent="." instance=ExtResource( 1 )]
-margin_left = 356.0
-margin_top = 284.0
-margin_right = 356.0
-margin_bottom = 284.0
+anchor_left = 0.233596
+anchor_top = 0.373684
+anchor_right = 0.233596
+anchor_bottom = 0.373684
 
 [node name="MapTile50" parent="." instance=ExtResource( 1 )]
-margin_left = 356.0
-margin_top = 316.0
-margin_right = 356.0
-margin_bottom = 316.0
+anchor_left = 0.233596
+anchor_top = 0.415789
+anchor_right = 0.233596
+anchor_bottom = 0.415789
 
 [node name="MapTile51" parent="." instance=ExtResource( 1 )]
-margin_left = 324.0
-margin_top = 284.0
-margin_right = 324.0
-margin_bottom = 284.0
+anchor_left = 0.212598
+anchor_top = 0.373684
+anchor_right = 0.212598
+anchor_bottom = 0.373684
 
 [node name="MapTile55" parent="." instance=ExtResource( 1 )]
-margin_left = 324.0
-margin_top = 252.0
-margin_right = 324.0
-margin_bottom = 252.0
+anchor_left = 0.212598
+anchor_top = 0.331579
+anchor_right = 0.212598
+anchor_bottom = 0.331579
 
 [node name="MapTile52" parent="." instance=ExtResource( 1 )]
-margin_left = 324.0
-margin_top = 316.0
-margin_right = 324.0
-margin_bottom = 316.0
+anchor_left = 0.212598
+anchor_top = 0.415789
+anchor_right = 0.212598
+anchor_bottom = 0.415789
 
 [node name="MapTile53" parent="." instance=ExtResource( 1 )]
-margin_left = 292.0
-margin_top = 284.0
-margin_right = 292.0
-margin_bottom = 284.0
+anchor_left = 0.191601
+anchor_top = 0.373684
+anchor_right = 0.191601
+anchor_bottom = 0.373684
 
 [node name="MapTile54" parent="." instance=ExtResource( 1 )]
-margin_left = 292.0
-margin_top = 316.0
-margin_right = 292.0
-margin_bottom = 316.0
+anchor_left = 0.191601
+anchor_top = 0.415789
+anchor_right = 0.191601
+anchor_bottom = 0.415789
 
 [node name="MapTile46" parent="." instance=ExtResource( 1 )]
-margin_left = 420.0
-margin_top = 284.0
-margin_right = 420.0
-margin_bottom = 284.0
+anchor_left = 0.275591
+anchor_top = 0.373684
+anchor_right = 0.275591
+anchor_bottom = 0.373684
+margin_left = 3.05176e-05
+margin_right = 3.05176e-05
