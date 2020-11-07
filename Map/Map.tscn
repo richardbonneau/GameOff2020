@@ -5,8 +5,10 @@
 [node name="Map" type="ColorRect"]
 anchor_right = 1.119
 anchor_bottom = 1.0
-margin_right = -4.55408
-margin_bottom = -8.0
+margin_left = -12.0
+margin_top = -24.0
+margin_right = -16.5541
+margin_bottom = -32.0
 color = Color( 0.298039, 0.596078, 0.623529, 1 )
 __meta__ = {
 "_edit_use_anchors_": false
@@ -17,24 +19,28 @@ anchor_left = 0.023622
 anchor_top = 0.247368
 anchor_right = 0.023622
 anchor_bottom = 0.247368
+country_this_tile_belongs_to = "USA"
 
 [node name="MapTile3" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.023622
 anchor_top = 0.205263
 anchor_right = 0.023622
 anchor_bottom = 0.205263
+country_this_tile_belongs_to = "USA"
 
 [node name="MapTile4" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.0446194
 anchor_top = 0.247368
 anchor_right = 0.0446194
 anchor_bottom = 0.247368
+country_this_tile_belongs_to = "USA"
 
 [node name="MapTile5" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.0446194
 anchor_top = 0.205263
 anchor_right = 0.0446194
 anchor_bottom = 0.205263
+country_this_tile_belongs_to = "USA"
 
 [node name="MapTile6" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.0656168
@@ -207,54 +213,63 @@ anchor_left = 0.107612
 anchor_top = 0.373684
 anchor_right = 0.107612
 anchor_bottom = 0.373684
+country_this_tile_belongs_to = "USA"
 
 [node name="MapTile57" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.128609
 anchor_top = 0.373684
 anchor_right = 0.128609
 anchor_bottom = 0.373684
+country_this_tile_belongs_to = "USA"
 
 [node name="MapTile58" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.149606
 anchor_top = 0.373684
 anchor_right = 0.149606
 anchor_bottom = 0.373684
+country_this_tile_belongs_to = "USA"
 
 [node name="MapTile59" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.170604
 anchor_top = 0.373684
 anchor_right = 0.170604
 anchor_bottom = 0.373684
+country_this_tile_belongs_to = "USA"
 
 [node name="MapTile60" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.107612
 anchor_top = 0.415789
 anchor_right = 0.107612
 anchor_bottom = 0.415789
+country_this_tile_belongs_to = "USA"
 
 [node name="MapTile61" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.128609
 anchor_top = 0.415789
 anchor_right = 0.128609
 anchor_bottom = 0.415789
+country_this_tile_belongs_to = "USA"
 
 [node name="MapTile62" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.149606
 anchor_top = 0.415789
 anchor_right = 0.149606
 anchor_bottom = 0.415789
+country_this_tile_belongs_to = "USA"
 
 [node name="MapTile65" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.128609
 anchor_top = 0.457895
 anchor_right = 0.128609
 anchor_bottom = 0.457895
+country_this_tile_belongs_to = "USA"
 
 [node name="MapTile66" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.149606
 anchor_top = 0.457895
 anchor_right = 0.149606
 anchor_bottom = 0.457895
+country_this_tile_belongs_to = "USA"
 
 [node name="MapTile67" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.149606
@@ -523,6 +538,7 @@ anchor_left = 0.170604
 anchor_top = 0.415789
 anchor_right = 0.170604
 anchor_bottom = 0.415789
+country_this_tile_belongs_to = "USA"
 
 [node name="MapTile36" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.191601
@@ -743,24 +759,34 @@ anchor_left = 0.506562
 anchor_top = 0.331579
 anchor_right = 0.506562
 anchor_bottom = 0.331579
+margin_left = 1.0
+margin_right = 1.0
+country_this_tile_belongs_to = "Europe"
 
 [node name="MapTile136" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.527559
 anchor_top = 0.331579
 anchor_right = 0.527559
 anchor_bottom = 0.331579
+margin_left = 1.0
+margin_right = 1.0
+country_this_tile_belongs_to = "Europe"
 
 [node name="MapTile137" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.548556
 anchor_top = 0.331579
 anchor_right = 0.548556
 anchor_bottom = 0.331579
+margin_left = 1.0
+margin_right = 1.0
+country_this_tile_belongs_to = "Europe"
 
 [node name="MapTile149" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.569554
 anchor_top = 0.289474
 anchor_right = 0.569554
 anchor_bottom = 0.289474
+country_this_tile_belongs_to = "Europe"
 
 [node name="MapTile154" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.548556
@@ -815,12 +841,16 @@ anchor_left = 0.590551
 anchor_top = 0.289474
 anchor_right = 0.590551
 anchor_bottom = 0.289474
+country_this_tile_belongs_to = "Europe"
 
 [node name="MapTile160" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.590551
 anchor_top = 0.331579
 anchor_right = 0.590551
 anchor_bottom = 0.331579
+margin_left = 1.0
+margin_right = 1.0
+country_this_tile_belongs_to = "Europe"
 
 [node name="MapTile161" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.590551
@@ -1241,6 +1271,9 @@ anchor_left = 0.569554
 anchor_top = 0.331579
 anchor_right = 0.569554
 anchor_bottom = 0.331579
+margin_left = 1.0
+margin_right = 1.0
+country_this_tile_belongs_to = "Europe"
 
 [node name="MapTile212" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.569554
@@ -1763,42 +1796,49 @@ anchor_left = 0.75853
 anchor_top = 0.247368
 anchor_right = 0.75853
 anchor_bottom = 0.247368
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile275" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.75853
 anchor_top = 0.205263
 anchor_right = 0.75853
 anchor_bottom = 0.205263
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile276" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.75853
 anchor_top = 0.289474
 anchor_right = 0.75853
 anchor_bottom = 0.289474
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile277" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.75853
 anchor_top = 0.331579
 anchor_right = 0.75853
 anchor_bottom = 0.331579
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile278" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.75853
 anchor_top = 0.373684
 anchor_right = 0.75853
 anchor_bottom = 0.373684
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile279" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.75853
 anchor_top = 0.415789
 anchor_right = 0.75853
 anchor_bottom = 0.415789
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile280" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.75853
 anchor_top = 0.457895
 anchor_right = 0.75853
 anchor_bottom = 0.457895
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile281" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.75853
@@ -1811,42 +1851,49 @@ anchor_left = 0.779528
 anchor_top = 0.247368
 anchor_right = 0.779528
 anchor_bottom = 0.247368
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile283" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.779528
 anchor_top = 0.205263
 anchor_right = 0.779528
 anchor_bottom = 0.205263
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile284" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.779528
 anchor_top = 0.289474
 anchor_right = 0.779528
 anchor_bottom = 0.289474
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile285" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.779528
 anchor_top = 0.331579
 anchor_right = 0.779528
 anchor_bottom = 0.331579
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile286" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.779528
 anchor_top = 0.373684
 anchor_right = 0.779528
 anchor_bottom = 0.373684
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile287" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.779528
 anchor_top = 0.415789
 anchor_right = 0.779528
 anchor_bottom = 0.415789
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile288" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.779528
 anchor_top = 0.457895
 anchor_right = 0.779528
 anchor_bottom = 0.457895
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile289" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.779528
@@ -1895,12 +1942,14 @@ anchor_left = 0.800525
 anchor_top = 0.247368
 anchor_right = 0.800525
 anchor_bottom = 0.247368
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile291" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.800525
 anchor_top = 0.205263
 anchor_right = 0.800525
 anchor_bottom = 0.205263
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile308" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.716535
@@ -1919,18 +1968,21 @@ anchor_left = 0.75853
 anchor_top = 0.163158
 anchor_right = 0.75853
 anchor_bottom = 0.163158
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile311" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.779528
 anchor_top = 0.163158
 anchor_right = 0.779528
 anchor_bottom = 0.163158
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile312" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.800525
 anchor_top = 0.163158
 anchor_right = 0.800525
 anchor_bottom = 0.163158
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile302" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.716535
@@ -1949,12 +2001,14 @@ anchor_left = 0.75853
 anchor_top = 0.121053
 anchor_right = 0.75853
 anchor_bottom = 0.121053
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile305" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.779528
 anchor_top = 0.121053
 anchor_right = 0.779528
 anchor_bottom = 0.121053
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile313" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.75853
@@ -1963,6 +2017,7 @@ anchor_right = 0.75853
 anchor_bottom = 0.0789474
 margin_top = 3.8147e-06
 margin_bottom = 3.8147e-06
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile315" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.737533
@@ -1977,252 +2032,294 @@ anchor_right = 0.779528
 anchor_bottom = 0.0789474
 margin_top = 3.8147e-06
 margin_bottom = 3.8147e-06
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile306" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.800525
 anchor_top = 0.121053
 anchor_right = 0.800525
 anchor_bottom = 0.121053
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile307" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.821522
 anchor_top = 0.121053
 anchor_right = 0.821522
 anchor_bottom = 0.121053
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile292" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.800525
 anchor_top = 0.289474
 anchor_right = 0.800525
 anchor_bottom = 0.289474
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile293" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.800525
 anchor_top = 0.331579
 anchor_right = 0.800525
 anchor_bottom = 0.331579
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile294" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.800525
 anchor_top = 0.373684
 anchor_right = 0.800525
 anchor_bottom = 0.373684
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile295" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.800525
 anchor_top = 0.415789
 anchor_right = 0.800525
 anchor_bottom = 0.415789
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile326" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.821522
 anchor_top = 0.415789
 anchor_right = 0.821522
 anchor_bottom = 0.415789
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile336" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.821522
 anchor_top = 0.373684
 anchor_right = 0.821522
 anchor_bottom = 0.373684
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile337" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.84252
 anchor_top = 0.373684
 anchor_right = 0.84252
 anchor_bottom = 0.373684
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile338" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.863517
 anchor_top = 0.331579
 anchor_right = 0.863517
 anchor_bottom = 0.331579
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile339" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.884514
 anchor_top = 0.289474
 anchor_right = 0.884514
 anchor_bottom = 0.289474
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile340" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.905512
 anchor_top = 0.247368
 anchor_right = 0.905512
 anchor_bottom = 0.247368
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile341" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.926509
 anchor_top = 0.247368
 anchor_right = 0.926509
 anchor_bottom = 0.247368
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile344" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.947507
 anchor_top = 0.247368
 anchor_right = 0.947507
 anchor_bottom = 0.247368
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile347" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.905512
 anchor_top = 0.205263
 anchor_right = 0.905512
 anchor_bottom = 0.205263
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile350" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.905512
 anchor_top = 0.163158
 anchor_right = 0.905512
 anchor_bottom = 0.163158
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile351" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.884514
 anchor_top = 0.163158
 anchor_right = 0.884514
 anchor_bottom = 0.163158
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile352" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.863517
 anchor_top = 0.163158
 anchor_right = 0.863517
 anchor_bottom = 0.163158
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile353" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.84252
 anchor_top = 0.163158
 anchor_right = 0.84252
 anchor_bottom = 0.163158
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile354" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.821522
 anchor_top = 0.163158
 anchor_right = 0.821522
 anchor_bottom = 0.163158
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile355" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.884514
 anchor_top = 0.205263
 anchor_right = 0.884514
 anchor_bottom = 0.205263
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile356" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.863517
 anchor_top = 0.205263
 anchor_right = 0.863517
 anchor_bottom = 0.205263
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile357" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.84252
 anchor_top = 0.205263
 anchor_right = 0.84252
 anchor_bottom = 0.205263
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile358" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.821522
 anchor_top = 0.205263
 anchor_right = 0.821522
 anchor_bottom = 0.205263
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile359" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.884514
 anchor_top = 0.247368
 anchor_right = 0.884514
 anchor_bottom = 0.247368
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile360" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.863517
 anchor_top = 0.247368
 anchor_right = 0.863517
 anchor_bottom = 0.247368
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile361" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.84252
 anchor_top = 0.247368
 anchor_right = 0.84252
 anchor_bottom = 0.247368
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile362" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.821522
 anchor_top = 0.247368
 anchor_right = 0.821522
 anchor_bottom = 0.247368
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile363" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.863517
 anchor_top = 0.289474
 anchor_right = 0.863517
 anchor_bottom = 0.289474
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile364" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.84252
 anchor_top = 0.289474
 anchor_right = 0.84252
 anchor_bottom = 0.289474
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile365" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.821522
 anchor_top = 0.289474
 anchor_right = 0.821522
 anchor_bottom = 0.289474
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile366" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.84252
 anchor_top = 0.331579
 anchor_right = 0.84252
 anchor_bottom = 0.331579
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile367" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.821522
 anchor_top = 0.331579
 anchor_right = 0.821522
 anchor_bottom = 0.331579
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile348" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.926509
 anchor_top = 0.205263
 anchor_right = 0.926509
 anchor_bottom = 0.205263
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile349" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.947507
 anchor_top = 0.205263
 anchor_right = 0.947507
 anchor_bottom = 0.205263
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile345" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.968504
 anchor_top = 0.247368
 anchor_right = 0.968504
 anchor_bottom = 0.247368
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile342" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.926509
 anchor_top = 0.289474
 anchor_right = 0.926509
 anchor_bottom = 0.289474
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile343" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.926509
 anchor_top = 0.331579
 anchor_right = 0.926509
 anchor_bottom = 0.331579
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile346" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.905512
 anchor_top = 0.373684
 anchor_right = 0.905512
 anchor_bottom = 0.373684
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile296" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.800525
 anchor_top = 0.457895
 anchor_right = 0.800525
 anchor_bottom = 0.457895
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile297" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.800525
 anchor_top = 0.5
 anchor_right = 0.800525
 anchor_bottom = 0.5
+country_this_tile_belongs_to = "USSR"
 
 [node name="MapTile334" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.84252
@@ -2347,6 +2444,7 @@ anchor_right = 0.254593
 anchor_bottom = 0.373684
 margin_left = 3.05176e-05
 margin_right = 3.05176e-05
+country_this_tile_belongs_to = "USA"
 
 [node name="MapTile48" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.254593
@@ -2355,6 +2453,7 @@ anchor_right = 0.254593
 anchor_bottom = 0.415789
 margin_left = 3.05176e-05
 margin_right = 3.05176e-05
+country_this_tile_belongs_to = "USA"
 
 [node name="MapTile64" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.254593
@@ -2363,24 +2462,28 @@ anchor_right = 0.254593
 anchor_bottom = 0.457895
 margin_left = 3.05176e-05
 margin_right = 3.05176e-05
+country_this_tile_belongs_to = "USA"
 
 [node name="MapTile49" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.233596
 anchor_top = 0.373684
 anchor_right = 0.233596
 anchor_bottom = 0.373684
+country_this_tile_belongs_to = "USA"
 
 [node name="MapTile50" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.233596
 anchor_top = 0.415789
 anchor_right = 0.233596
 anchor_bottom = 0.415789
+country_this_tile_belongs_to = "USA"
 
 [node name="MapTile51" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.212598
 anchor_top = 0.373684
 anchor_right = 0.212598
 anchor_bottom = 0.373684
+country_this_tile_belongs_to = "USA"
 
 [node name="MapTile55" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.212598
@@ -2393,18 +2496,21 @@ anchor_left = 0.212598
 anchor_top = 0.415789
 anchor_right = 0.212598
 anchor_bottom = 0.415789
+country_this_tile_belongs_to = "USA"
 
 [node name="MapTile53" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.191601
 anchor_top = 0.373684
 anchor_right = 0.191601
 anchor_bottom = 0.373684
+country_this_tile_belongs_to = "USA"
 
 [node name="MapTile54" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.191601
 anchor_top = 0.415789
 anchor_right = 0.191601
 anchor_bottom = 0.415789
+country_this_tile_belongs_to = "USA"
 
 [node name="MapTile46" parent="." instance=ExtResource( 1 )]
 anchor_left = 0.275591
@@ -2413,3 +2519,4 @@ anchor_right = 0.275591
 anchor_bottom = 0.373684
 margin_left = 3.05176e-05
 margin_right = 3.05176e-05
+country_this_tile_belongs_to = "USA"

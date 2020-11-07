@@ -9,8 +9,9 @@ script = ExtResource( 1 )
 __meta__ = {
 "_edit_use_anchors_": false
 }
+country_this_tile_belongs_to = "Neutral"
 
-[node name="ColorRect" type="ColorRect" parent="."]
+[node name="Border" type="ColorRect" parent="."]
 margin_right = 17.0
 margin_bottom = 17.0
 color = Color( 0.298039, 0.596078, 0.623529, 1 )
@@ -18,12 +19,12 @@ __meta__ = {
 "_edit_use_anchors_": false
 }
 
-[node name="ColorRect2" type="ColorRect" parent="."]
+[node name="Tile" type="ColorRect" parent="."]
 margin_left = 1.0
 margin_top = 1.0
 margin_right = 16.0
 margin_bottom = 16.0
-color = Color( 0.113725, 0.396078, 0.831373, 1 )
+color = Color( 0.0196078, 0.611765, 0.964706, 1 )
 __meta__ = {
 "_edit_use_anchors_": false
 }
