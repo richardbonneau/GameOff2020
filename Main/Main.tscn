@@ -10,14 +10,15 @@ script = ExtResource( 1 )
 
 [node name="Map" parent="." instance=ExtResource( 2 )]
 margin_left = 304.0
+margin_top = 0.0
 margin_right = -470.554
-margin_bottom = -392.0
+margin_bottom = -368.0
 
 [node name="Dashboard" type="ColorRect" parent="."]
 anchor_top = 1.0
 anchor_right = 1.0
 anchor_bottom = 1.0
-margin_top = -395.0
+margin_top = -368.0
 color = Color( 0.282353, 0.407843, 0.552941, 1 )
 __meta__ = {
 "_edit_use_anchors_": false
@@ -41,7 +42,7 @@ __meta__ = {
 
 [node name="Icon" type="TextureRect" parent="Dashboard/RocketEnginesGauge"]
 margin_right = 71.0
-margin_bottom = 38.0
+margin_bottom = 35.0
 size_flags_vertical = 3
 texture = ExtResource( 4 )
 expand = true
@@ -50,45 +51,45 @@ __meta__ = {
 }
 
 [node name="GaugeLight" parent="Dashboard/RocketEnginesGauge" instance=ExtResource( 3 )]
-margin_top = 42.0
+margin_top = 39.0
 margin_right = 71.0
-margin_bottom = 81.0
+margin_bottom = 75.0
 
 [node name="GaugeLight2" parent="Dashboard/RocketEnginesGauge" instance=ExtResource( 3 )]
-margin_top = 85.0
+margin_top = 79.0
 margin_right = 71.0
-margin_bottom = 124.0
+margin_bottom = 115.0
 
 [node name="GaugeLight3" parent="Dashboard/RocketEnginesGauge" instance=ExtResource( 3 )]
-margin_top = 128.0
+margin_top = 119.0
 margin_right = 71.0
-margin_bottom = 167.0
+margin_bottom = 155.0
 
 [node name="GaugeLight4" parent="Dashboard/RocketEnginesGauge" instance=ExtResource( 3 )]
-margin_top = 171.0
+margin_top = 159.0
 margin_right = 71.0
-margin_bottom = 209.0
+margin_bottom = 194.0
 
 [node name="GaugeLight5" parent="Dashboard/RocketEnginesGauge" instance=ExtResource( 3 )]
-margin_top = 213.0
+margin_top = 198.0
 margin_right = 71.0
-margin_bottom = 252.0
+margin_bottom = 234.0
 
 [node name="GaugeLight6" parent="Dashboard/RocketEnginesGauge" instance=ExtResource( 3 )]
-margin_top = 256.0
+margin_top = 238.0
 margin_right = 71.0
-margin_bottom = 295.0
+margin_bottom = 274.0
 
 [node name="GaugeLight7" parent="Dashboard/RocketEnginesGauge" instance=ExtResource( 3 )]
-margin_top = 299.0
+margin_top = 278.0
 margin_right = 71.0
-margin_bottom = 338.0
+margin_bottom = 314.0
 node_open = true
 
 [node name="GaugeLight8" parent="Dashboard/RocketEnginesGauge" instance=ExtResource( 3 )]
-margin_top = 342.0
+margin_top = 318.0
 margin_right = 71.0
-margin_bottom = 381.0
+margin_bottom = 354.0
 node_open = true
 
 [node name="RocketEnginesGauge2" type="VBoxContainer" parent="Dashboard"]
@@ -109,7 +110,7 @@ __meta__ = {
 
 [node name="Icon" type="TextureRect" parent="Dashboard/RocketEnginesGauge2"]
 margin_right = 70.0
-margin_bottom = 38.0
+margin_bottom = 35.0
 size_flags_vertical = 3
 texture = ExtResource( 4 )
 expand = true
@@ -118,48 +119,48 @@ __meta__ = {
 }
 
 [node name="GaugeLight" parent="Dashboard/RocketEnginesGauge2" instance=ExtResource( 3 )]
-margin_top = 42.0
+margin_top = 39.0
 margin_right = 70.0
-margin_bottom = 81.0
+margin_bottom = 75.0
 
 [node name="GaugeLight2" parent="Dashboard/RocketEnginesGauge2" instance=ExtResource( 3 )]
-margin_top = 85.0
+margin_top = 79.0
 margin_right = 70.0
-margin_bottom = 124.0
+margin_bottom = 115.0
 
 [node name="GaugeLight3" parent="Dashboard/RocketEnginesGauge2" instance=ExtResource( 3 )]
-margin_top = 128.0
+margin_top = 119.0
 margin_right = 70.0
-margin_bottom = 167.0
+margin_bottom = 155.0
 
 [node name="GaugeLight4" parent="Dashboard/RocketEnginesGauge2" instance=ExtResource( 3 )]
-margin_top = 171.0
+margin_top = 159.0
 margin_right = 70.0
-margin_bottom = 209.0
+margin_bottom = 194.0
 node_open = true
 
 [node name="GaugeLight5" parent="Dashboard/RocketEnginesGauge2" instance=ExtResource( 3 )]
-margin_top = 213.0
+margin_top = 198.0
 margin_right = 70.0
-margin_bottom = 252.0
+margin_bottom = 234.0
 node_open = true
 
 [node name="GaugeLight6" parent="Dashboard/RocketEnginesGauge2" instance=ExtResource( 3 )]
-margin_top = 256.0
+margin_top = 238.0
 margin_right = 70.0
-margin_bottom = 295.0
+margin_bottom = 274.0
 node_open = true
 
 [node name="GaugeLight7" parent="Dashboard/RocketEnginesGauge2" instance=ExtResource( 3 )]
-margin_top = 299.0
+margin_top = 278.0
 margin_right = 70.0
-margin_bottom = 338.0
+margin_bottom = 314.0
 node_open = true
 
 [node name="GaugeLight8" parent="Dashboard/RocketEnginesGauge2" instance=ExtResource( 3 )]
-margin_top = 342.0
+margin_top = 318.0
 margin_right = 70.0
-margin_bottom = 381.0
+margin_bottom = 354.0
 node_open = true
 
 [node name="RocketEnginesGauge3" type="VBoxContainer" parent="Dashboard"]
@@ -180,7 +181,7 @@ __meta__ = {
 
 [node name="Icon" type="TextureRect" parent="Dashboard/RocketEnginesGauge3"]
 margin_right = 71.0
-margin_bottom = 38.0
+margin_bottom = 35.0
 size_flags_vertical = 3
 texture = ExtResource( 4 )
 expand = true
@@ -189,44 +190,44 @@ __meta__ = {
 }
 
 [node name="GaugeLight" parent="Dashboard/RocketEnginesGauge3" instance=ExtResource( 3 )]
-margin_top = 42.0
+margin_top = 39.0
 margin_right = 71.0
-margin_bottom = 81.0
+margin_bottom = 75.0
 
 [node name="GaugeLight2" parent="Dashboard/RocketEnginesGauge3" instance=ExtResource( 3 )]
-margin_top = 85.0
+margin_top = 79.0
 margin_right = 71.0
-margin_bottom = 124.0
+margin_bottom = 115.0
 
 [node name="GaugeLight3" parent="Dashboard/RocketEnginesGauge3" instance=ExtResource( 3 )]
-margin_top = 128.0
+margin_top = 119.0
 margin_right = 71.0
-margin_bottom = 167.0
+margin_bottom = 155.0
 
 [node name="GaugeLight4" parent="Dashboard/RocketEnginesGauge3" instance=ExtResource( 3 )]
-margin_top = 171.0
+margin_top = 159.0
 margin_right = 71.0
-margin_bottom = 209.0
+margin_bottom = 194.0
 
 [node name="GaugeLight5" parent="Dashboard/RocketEnginesGauge3" instance=ExtResource( 3 )]
-margin_top = 213.0
+margin_top = 198.0
 margin_right = 71.0
-margin_bottom = 252.0
+margin_bottom = 234.0
 
 [node name="GaugeLight6" parent="Dashboard/RocketEnginesGauge3" instance=ExtResource( 3 )]
-margin_top = 256.0
+margin_top = 238.0
 margin_right = 71.0
-margin_bottom = 295.0
+margin_bottom = 274.0
 
 [node name="GaugeLight7" parent="Dashboard/RocketEnginesGauge3" instance=ExtResource( 3 )]
-margin_top = 299.0
+margin_top = 278.0
 margin_right = 71.0
-margin_bottom = 338.0
+margin_bottom = 314.0
 
 [node name="GaugeLight8" parent="Dashboard/RocketEnginesGauge3" instance=ExtResource( 3 )]
-margin_top = 342.0
+margin_top = 318.0
 margin_right = 71.0
-margin_bottom = 381.0
+margin_bottom = 354.0
 node_open = true
 
 [node name="RocketEnginesGauge4" type="VBoxContainer" parent="Dashboard"]
@@ -247,7 +248,7 @@ __meta__ = {
 
 [node name="Icon" type="TextureRect" parent="Dashboard/RocketEnginesGauge4"]
 margin_right = 71.0
-margin_bottom = 38.0
+margin_bottom = 35.0
 size_flags_vertical = 3
 texture = ExtResource( 4 )
 expand = true
@@ -256,44 +257,44 @@ __meta__ = {
 }
 
 [node name="GaugeLight" parent="Dashboard/RocketEnginesGauge4" instance=ExtResource( 3 )]
-margin_top = 42.0
+margin_top = 39.0
 margin_right = 71.0
-margin_bottom = 81.0
+margin_bottom = 75.0
 
 [node name="GaugeLight2" parent="Dashboard/RocketEnginesGauge4" instance=ExtResource( 3 )]
-margin_top = 85.0
+margin_top = 79.0
 margin_right = 71.0
-margin_bottom = 124.0
+margin_bottom = 115.0
 
 [node name="GaugeLight3" parent="Dashboard/RocketEnginesGauge4" instance=ExtResource( 3 )]
-margin_top = 128.0
+margin_top = 119.0
 margin_right = 71.0
-margin_bottom = 167.0
+margin_bottom = 155.0
 
 [node name="GaugeLight4" parent="Dashboard/RocketEnginesGauge4" instance=ExtResource( 3 )]
-margin_top = 171.0
+margin_top = 159.0
 margin_right = 71.0
-margin_bottom = 209.0
+margin_bottom = 194.0
 
 [node name="GaugeLight5" parent="Dashboard/RocketEnginesGauge4" instance=ExtResource( 3 )]
-margin_top = 213.0
+margin_top = 198.0
 margin_right = 71.0
-margin_bottom = 252.0
+margin_bottom = 234.0
 
 [node name="GaugeLight6" parent="Dashboard/RocketEnginesGauge4" instance=ExtResource( 3 )]
-margin_top = 256.0
+margin_top = 238.0
 margin_right = 71.0
-margin_bottom = 295.0
+margin_bottom = 274.0
 node_open = true
 
 [node name="GaugeLight7" parent="Dashboard/RocketEnginesGauge4" instance=ExtResource( 3 )]
-margin_top = 299.0
+margin_top = 278.0
 margin_right = 71.0
-margin_bottom = 338.0
+margin_bottom = 314.0
 node_open = true
 
 [node name="GaugeLight8" parent="Dashboard/RocketEnginesGauge4" instance=ExtResource( 3 )]
-margin_top = 342.0
+margin_top = 318.0
 margin_right = 71.0
-margin_bottom = 381.0
+margin_bottom = 354.0
 node_open = true
