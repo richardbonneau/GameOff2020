@@ -1,0 +1,23 @@
+[gd_scene format=2]
+
+[node name="MapTile" type="Control"]
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="ColorRect" type="ColorRect" parent="."]
+margin_right = 32.0
+margin_bottom = 32.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="ColorRect2" type="ColorRect" parent="."]
+margin_left = 1.0
+margin_top = 1.0
+margin_right = 31.0
+margin_bottom = 31.0
+color = Color( 0.113725, 0.396078, 0.831373, 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
