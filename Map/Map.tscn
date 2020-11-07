@@ -774,6 +774,8 @@ anchor_left = 0.569554
 anchor_top = 0.289474
 anchor_right = 0.569554
 anchor_bottom = 0.289474
+margin_left = 1.0
+margin_right = 18.0
 country_this_tile_belongs_to = "Europe"
 
 [node name="MapTile154" parent="." instance=ExtResource( 1 )]
